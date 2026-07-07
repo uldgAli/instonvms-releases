@@ -1,6 +1,6 @@
 {
   "version": "1.4.1",
-  "notes": "Per-camera timelines + 32x speed + ESC/right-click exit",
+  "notes": "Per-camera timelines + 32x playback speed + ESC/right-click exit",
   "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.1/INSTONVMS-Server-Update-1.4.1-windows.zip", "sha256": "002a356dbc845a91883d09849e5f0d258acb6c95374e74f2dbddb76f4061d512" },
   "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.1/INSTONVMS-Server-Update-1.4.1-linux.zip",   "sha256": "a562c1438ab471f31172bcc567917eb9dd15735dd6bdf2408c022e0116b43222" }
 }
