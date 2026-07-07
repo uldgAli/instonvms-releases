@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "notes": "Per-camera timelines + 32x playback speed + ESC/right-click exit",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.1/INSTONVMS-Server-Update-1.4.1-windows.zip", "sha256": "002a356dbc845a91883d09849e5f0d258acb6c95374e74f2dbddb76f4061d512" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.1/INSTONVMS-Server-Update-1.4.1-linux.zip",   "sha256": "a562c1438ab471f31172bcc567917eb9dd15735dd6bdf2408c022e0116b43222" }
+  "version": "1.4.2",
+  "notes": "Drag-to-reorder wall tiles + clearer dashboard status banner",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.2/INSTONVMS-Server-Update-1.4.2-windows.zip", "sha256": "fc09e1a6f0adfd16f540346c649627f900462761f35f163968c4a0671c3e15bc" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.2/INSTONVMS-Server-Update-1.4.2-linux.zip",   "sha256": "ece121756854e39c274bfcd38f9196dc118597717fe1a64d762864174a70ba20" }
 }
