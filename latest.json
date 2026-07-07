@@ -1,0 +1,6 @@
+{
+  "version": "1.4.0",
+  "notes": "In-app updates + live view fixes (test manifest)",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.0/INSTONVMS-Server-Update-1.4.0-windows.zip", "sha256": "" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.0/INSTONVMS-Server-Update-1.4.0-linux.zip", "sha256": "" }
+}
