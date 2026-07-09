@@ -1,6 +1,6 @@
 {
-  "version": "1.4.5",
-  "notes": "Recording reliability + bigger sync video + compact timelines + logo",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.5/INSTONVMS-Server-Update-1.4.5-windows.zip", "sha256": "71349efc5bd2cee0f7190e68d29d8bc849922eca5c221cf476e7f88bb7b6afe0" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.5/INSTONVMS-Server-Update-1.4.5-linux.zip",   "sha256": "28dd719f716343122eddd02d28456d5fbaf8b3ce1ed3b1226c46033a12cab31b" }
+  "version": "1.4.6",
+  "notes": "Update progress bar + update badge + iQeye /stream1 RTSP fix",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.6/INSTONVMS-Server-Update-1.4.6-windows.zip", "sha256": "ef862424608ba55ce741ce9106a7335c4a988f8b2384d74011c31768f8f4a6bd" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.6/INSTONVMS-Server-Update-1.4.6-linux.zip",   "sha256": "282bbc1173091625878eb990c4de09e47940485eca5b5bbe49eee4d03bf49d95" }
 }
