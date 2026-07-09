@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
-  "notes": "In-app update fix (Windows updater via Task Scheduler)",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.3/INSTONVMS-Server-Update-1.4.3-windows.zip", "sha256": "f3f7b1cb7f0f276acfd0e2dca4f5ce8e5b320bdc88c81698b23bfb79f26d20fc" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.3/INSTONVMS-Server-Update-1.4.3-linux.zip",   "sha256": "7c14b9e1a75f0b2b9bdf82b8a4171f159e502d1fb60fda1fa79977f94c38d597" }
+  "version": "1.4.4",
+  "notes": "Sync playback crash fix + compact per-camera timelines",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.4/INSTONVMS-Server-Update-1.4.4-windows.zip", "sha256": "6798932aacf416c2cc0e02ad2f870434d0cbcb0e596b06f4a77464fc43e34b9b" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.4/INSTONVMS-Server-Update-1.4.4-linux.zip",   "sha256": "00a3ac4a01447795df32495f02940bfbc1644436f5f60c7315f4a6e83b93b4bb" }
 }
