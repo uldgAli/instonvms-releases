@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "notes": "Drag-to-reorder wall tiles + clearer dashboard status banner",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.2/INSTONVMS-Server-Update-1.4.2-windows.zip", "sha256": "fc09e1a6f0adfd16f540346c649627f900462761f35f163968c4a0671c3e15bc" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.2/INSTONVMS-Server-Update-1.4.2-linux.zip",   "sha256": "ece121756854e39c274bfcd38f9196dc118597717fe1a64d762864174a70ba20" }
+  "version": "1.4.3",
+  "notes": "In-app update fix (Windows updater via Task Scheduler)",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.3/INSTONVMS-Server-Update-1.4.3-windows.zip", "sha256": "f3f7b1cb7f0f276acfd0e2dca4f5ce8e5b320bdc88c81698b23bfb79f26d20fc" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.3/INSTONVMS-Server-Update-1.4.3-linux.zip",   "sha256": "7c14b9e1a75f0b2b9bdf82b8a4171f159e502d1fb60fda1fa79977f94c38d597" }
 }
