@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
-  "notes": "Update progress bar + update badge + iQeye /stream1 RTSP fix",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.6/INSTONVMS-Server-Update-1.4.6-windows.zip", "sha256": "ef862424608ba55ce741ce9106a7335c4a988f8b2384d74011c31768f8f4a6bd" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.6/INSTONVMS-Server-Update-1.4.6-linux.zip",   "sha256": "282bbc1173091625878eb990c4de09e47940485eca5b5bbe49eee4d03bf49d95" }
+  "version": "1.4.7",
+  "notes": "User-friendly dashboard; system health moved to Settings",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.7/INSTONVMS-Server-Update-1.4.7-windows.zip", "sha256": "4d1c237c05fc394c65a5761260d7978ea05e584858cc1667c7e3b97619d36dc8" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.7/INSTONVMS-Server-Update-1.4.7-linux.zip",   "sha256": "1068821e12d2eaf526a08a11b589d748e02dd0e4e2315b43076c91127f2ba1bb" }
 }
