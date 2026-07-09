@@ -1,6 +1,6 @@
 {
-  "version": "1.4.4",
-  "notes": "Sync playback crash fix + compact per-camera timelines",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.4/INSTONVMS-Server-Update-1.4.4-windows.zip", "sha256": "6798932aacf416c2cc0e02ad2f870434d0cbcb0e596b06f4a77464fc43e34b9b" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.4/INSTONVMS-Server-Update-1.4.4-linux.zip",   "sha256": "00a3ac4a01447795df32495f02940bfbc1644436f5f60c7315f4a6e83b93b4bb" }
+  "version": "1.4.5",
+  "notes": "Recording reliability + bigger sync video + compact timelines + logo",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.5/INSTONVMS-Server-Update-1.4.5-windows.zip", "sha256": "71349efc5bd2cee0f7190e68d29d8bc849922eca5c221cf476e7f88bb7b6afe0" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.5/INSTONVMS-Server-Update-1.4.5-linux.zip",   "sha256": "28dd719f716343122eddd02d28456d5fbaf8b3ce1ed3b1226c46033a12cab31b" }
 }
