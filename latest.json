@@ -1,6 +1,6 @@
 {
-  "version": "1.4.8",
-  "notes": "Recording reliability: bigger MediaMTX write queue + tolerant timeouts",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.8/INSTONVMS-Server-Update-1.4.8-windows.zip", "sha256": "5558a166c742927c46ac409af1c054be6552423ecf544ec9325e408f2fd134e2" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.8/INSTONVMS-Server-Update-1.4.8-linux.zip",   "sha256": "83c96fee19be61ff4fcfb2b50e45ecd2022425c882bc5065b423849757f99d8a" }
+  "version": "1.4.9",
+  "notes": "Camera delete fix, Maps removed, Settings grouped, non-admin lockdown, per-site dashboard",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.9/INSTONVMS-Server-Update-1.4.9-windows.zip", "sha256": "a8ed157050bac58941fbfafec360b9a08ec9e0fbf717018d2fbceeca27d85aa0" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.9/INSTONVMS-Server-Update-1.4.9-linux.zip",   "sha256": "a64e819a57b8d811120ef2cf74bf56117ba13cc9988f6f99b52e8ac45b3b3e10" }
 }
