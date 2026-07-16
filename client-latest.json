@@ -1,8 +1,8 @@
 {
-  "version": "1.4.14",
-  "notes": "INSTONVMS 1.4.14",
-  "windows":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.14/INSTONVMS-Client-Setup-1.4.14-win-x64.exe" },
-  "mac_arm64": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.14/INSTONVMS-Client-1.4.14-mac-arm64.dmg" },
-  "mac_x64":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.14/INSTONVMS-Client-1.4.14-mac-x64.dmg" },
-  "linux":     { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.4.14/INSTONVMS-Client-1.4.14-linux-x86_64.AppImage" }
+  "version": "1.5.0",
+  "notes": "INSTONVMS 1.5.0",
+  "windows":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.5.0/INSTONVMS-Client-Setup-1.5.0-win-x64.exe" },
+  "mac_arm64": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.5.0/INSTONVMS-Client-1.5.0-mac-arm64.dmg" },
+  "mac_x64":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.5.0/INSTONVMS-Client-1.5.0-mac-x64.dmg" },
+  "linux":     { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.5.0/INSTONVMS-Client-1.5.0-linux-x86_64.AppImage" }
 }
