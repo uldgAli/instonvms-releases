@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "notes": "INSTONVMS 1.6.0",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.6.0/INSTONVMS-Server-Update-1.6.0-windows.zip", "sha256": "920997dcadf20a1da81878fe94493fb56ab98f7afa5b43b9f07270122d0b6d03" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.6.0/INSTONVMS-Server-Update-1.6.0-linux.zip",   "sha256": "03e1c00c5fc3802606f7c44ce7f33ff4a58dc91a4fb09c4d786bdd9c78365f8a" }
+  "version": "1.7.0",
+  "notes": "INSTONVMS 1.7.0",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.7.0/INSTONVMS-Server-Update-1.7.0-windows.zip", "sha256": "fd0766c2a6aa9a5f9f1fd1290fcd39e331357311b4a3736b9e260a4251291cdc" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.7.0/INSTONVMS-Server-Update-1.7.0-linux.zip",   "sha256": "98d71d31919ab452256501e6eaba3fa7865995415dd3024787a018595e8bca4b" }
 }
