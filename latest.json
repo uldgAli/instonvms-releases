@@ -1,6 +1,6 @@
 {
-  "version": "1.11.0",
-  "notes": "INSTONVMS 1.11.0",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.0/INSTONVMS-Server-Update-1.11.0-windows.zip", "sha256": "371a589a7e3a96e6ad74cb2fb18d19cca537b0ead02e9b67367b15ed574747ee" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.0/INSTONVMS-Server-Update-1.11.0-linux.zip",   "sha256": "348039257297901b321ea0388ff1ffbbb1e5bbf1d399700f99c8439b97a84d70" }
+  "version": "1.11.1",
+  "notes": "Gercek kayit teshisi: MediaMTX kaynak durumu + video/ses codec ayrimi.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.1/INSTONVMS-Server-Update-1.11.1-windows.zip", "sha256": "b6c7428afa0902da139ec42077c04358ba157414f82416a6742854c920bd4878" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.1/INSTONVMS-Server-Update-1.11.1-linux.zip",   "sha256": "3a2fe6b427daa69a05c72d9e0d61848e7dad8274f99f5cf22575fc2deb806821" }
 }
