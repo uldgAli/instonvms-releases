@@ -1,6 +1,6 @@
 {
-  "version": "1.11.3",
-  "notes": "Dalgalanma-farkindali teshis: kaynak baglanip kopuyorsa acikca soyler",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.3/INSTONVMS-Server-Update-1.11.3-windows.zip", "sha256": "6379a6b4dde106fdf78de3795dccace6ad746b1684be60b109bfa5550c928c5e" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.3/INSTONVMS-Server-Update-1.11.3-linux.zip",   "sha256": "7101206c405b4e0b8ee3ffafad61433c7120bf6fb6cf15bbd4f7f73e214482b2" }
+  "version": "1.11.4",
+  "notes": "100+ kamera siniri duzeltildi: MediaMTX list sayfalamasi (gorunmeyen 53 kamera + path already exists firtinasi)",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.4/INSTONVMS-Server-Update-1.11.4-windows.zip", "sha256": "1b985cef9acc62c6c116b68e2b263c111f2044451c69fb883bea1cbbe1c0f378" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.4/INSTONVMS-Server-Update-1.11.4-linux.zip",   "sha256": "1494942bfaae67b3b4916ac73fd480b75a4fd2d2b2cb9b6d77fe237d9b6c2892" }
 }
