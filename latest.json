@@ -1,6 +1,6 @@
 {
-  "version": "1.11.2",
-  "notes": "Video-only ingest: G711 sesli kameralar icin ffmpeg relay (sesi at, video kaydet)",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.2/INSTONVMS-Server-Update-1.11.2-windows.zip", "sha256": "854209e4bc639d598c6f4d8c3b51f7604dff9e5e20c46f9243c63bd8703982d0" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.2/INSTONVMS-Server-Update-1.11.2-linux.zip",   "sha256": "2c7e33c6e5807190fc5b21779dd6575c3d4551d41b9e6589255b6c82a97f683c" }
+  "version": "1.11.3",
+  "notes": "Dalgalanma-farkindali teshis: kaynak baglanip kopuyorsa acikca soyler",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.3/INSTONVMS-Server-Update-1.11.3-windows.zip", "sha256": "6379a6b4dde106fdf78de3795dccace6ad746b1684be60b109bfa5550c928c5e" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.3/INSTONVMS-Server-Update-1.11.3-linux.zip",   "sha256": "7101206c405b4e0b8ee3ffafad61433c7120bf6fb6cf15bbd4f7f73e214482b2" }
 }
