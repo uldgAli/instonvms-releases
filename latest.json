@@ -1,6 +1,6 @@
 {
-  "version": "1.11.5",
-  "notes": "Samsung/Wisenet marka destegi (profile2/media.smp)",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.5/INSTONVMS-Server-Update-1.11.5-windows.zip", "sha256": "17c043dd0ba4af14bc716d439d84cd3c525ee7d5a204d0ae9237d021122d7321" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.5/INSTONVMS-Server-Update-1.11.5-linux.zip",   "sha256": "2818cda64d176709d75958513ecd063dc5f12ab6a31fb48ca08e72ba1c3f97c0" }
+  "version": "1.12.0",
+  "notes": "Kamera Ayarlari: genis bolumlu kamera yonetim merkezi (onizleme, baglanti/kimlik, kayit/saklama, AI) + kamera ekleme buraya tasindi",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.12.0/INSTONVMS-Server-Update-1.12.0-windows.zip", "sha256": "b32135325d57b41d478af6ef13fc53ff1dc554d9ff5700983f138c644076aa7d" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.12.0/INSTONVMS-Server-Update-1.12.0-linux.zip",   "sha256": "994c4aa768efbfa4717f14cf6fba60f1ea553e060db8b8a7ea32df6b83380846" }
 }
