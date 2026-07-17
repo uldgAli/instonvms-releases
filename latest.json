@@ -1,6 +1,6 @@
 {
-  "version": "1.11.1",
-  "notes": "Gercek kayit teshisi: MediaMTX kaynak durumu + video/ses codec ayrimi.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.1/INSTONVMS-Server-Update-1.11.1-windows.zip", "sha256": "b6c7428afa0902da139ec42077c04358ba157414f82416a6742854c920bd4878" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.1/INSTONVMS-Server-Update-1.11.1-linux.zip",   "sha256": "3a2fe6b427daa69a05c72d9e0d61848e7dad8274f99f5cf22575fc2deb806821" }
+  "version": "1.11.2",
+  "notes": "Video-only ingest: G711 sesli kameralar icin ffmpeg relay (sesi at, video kaydet)",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.2/INSTONVMS-Server-Update-1.11.2-windows.zip", "sha256": "854209e4bc639d598c6f4d8c3b51f7604dff9e5e20c46f9243c63bd8703982d0" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.2/INSTONVMS-Server-Update-1.11.2-linux.zip",   "sha256": "2c7e33c6e5807190fc5b21779dd6575c3d4551d41b9e6589255b6c82a97f683c" }
 }
