@@ -1,6 +1,6 @@
 {
-  "version": "1.11.4",
-  "notes": "100+ kamera siniri duzeltildi: MediaMTX list sayfalamasi (gorunmeyen 53 kamera + path already exists firtinasi)",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.4/INSTONVMS-Server-Update-1.11.4-windows.zip", "sha256": "1b985cef9acc62c6c116b68e2b263c111f2044451c69fb883bea1cbbe1c0f378" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.4/INSTONVMS-Server-Update-1.11.4-linux.zip",   "sha256": "1494942bfaae67b3b4916ac73fd480b75a4fd2d2b2cb9b6d77fe237d9b6c2892" }
+  "version": "1.11.5",
+  "notes": "Samsung/Wisenet marka destegi (profile2/media.smp)",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.5/INSTONVMS-Server-Update-1.11.5-windows.zip", "sha256": "17c043dd0ba4af14bc716d439d84cd3c525ee7d5a204d0ae9237d021122d7321" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.5/INSTONVMS-Server-Update-1.11.5-linux.zip",   "sha256": "2818cda64d176709d75958513ecd063dc5f12ab6a31fb48ca08e72ba1c3f97c0" }
 }
