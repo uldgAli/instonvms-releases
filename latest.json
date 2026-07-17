@@ -1,6 +1,6 @@
 {
-  "version": "1.12.1",
-  "notes": "Guvenilir guncelleme: dosya-kilidi yarisi duzeltildi (bekle+tekrar dene), adim adim ilerleme, surum-dogrulamali tamamlanma, hata halinde guncelleyici gunlugu",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.12.1/INSTONVMS-Server-Update-1.12.1-windows.zip", "sha256": "d4e10ec4cffbbe6be1803448664618f78abc34e9fbcd79e06c77a1a7e2f13e79" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.12.1/INSTONVMS-Server-Update-1.12.1-linux.zip",   "sha256": "8cb374465fff6c5a00cf427df0df1237a28631ac2008d5a9625d8bf77c4564fe" }
+  "version": "1.13.0",
+  "notes": "Buyuk paket: WebRTC canli izleme (hiz/stabilite), tam toplu duzenleme + Ctrl/Shift secim, klasor renk/simge/ic-ice surukleme, nokta atisi hareket verisi, YouTube-tarzi oynatici, disk gostergesi fix, daha kisa kayit bosluklari, KVKK kurulum onayi, ozel logo",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.13.0/INSTONVMS-Server-Update-1.13.0-windows.zip", "sha256": "f49b4d4e4aa183ec7b9d3e8078edea3b756ba8e54a5da3bae6b0a6857991d357" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.13.0/INSTONVMS-Server-Update-1.13.0-linux.zip",   "sha256": "cdff1d965561af1a74a3bea7feca193a25e132a130017555c66839b443d0ac14" }
 }
