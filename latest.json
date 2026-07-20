@@ -1,6 +1,6 @@
 {
-  "version": "1.14.0",
-  "notes": "Kamera kısa ID'leri + okunabilir kayıt klasörleri: her kamera arayüz genelinde görünen sıralı bir ID alır; yeni eklenen kameralar diske 'cam<ID>_<isim>' klasörüyle kaydeder (mevcut kameraların kayıtları yerinde kalır). H.265 önizleme ve site-kapsamlı yayın erişimi yeni yol adlarıyla uyumlu.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.0/INSTONVMS-Server-Update-1.14.0-windows.zip", "sha256": "e17951a696b523a6c9f4f2168edbcbb164ac9d27110a75d8d3ab8eed09485afc" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.0/INSTONVMS-Server-Update-1.14.0-linux.zip",   "sha256": "ea4b0b10a1a56259aa4cf5e919f1a125c346ca50f619854f08c299cccc1c2c11" }
+  "version": "1.14.1",
+  "notes": "Kritik düzeltme: güncelleme/yeniden başlatma sonrası kameraların çevrimdışı kalması. Sağlık işçisi, henüz bağlanmakta olan kameraların yolunu yeniden kurarak bağlantı denemelerini sürekli sıfırlıyordu; artık otomatik kurtarma yalnızca daha önce yayın vermiş ve takılmış kameralara, başlangıç toleransından sonra ve sınırlı sayıda uygulanıyor.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.1/INSTONVMS-Server-Update-1.14.1-windows.zip", "sha256": "99859b8cb69fcebb12f91990e0cadd46630a421bdd2cbf50d7395b5394358cc7" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.1/INSTONVMS-Server-Update-1.14.1-linux.zip",   "sha256": "2c025af610d4867693e3b36bb2a1a9f74479556721ce0a3c521ef5a4ecebc7cc" }
 }
