@@ -1,6 +1,6 @@
 {
-  "version": "1.13.0",
-  "notes": "Buyuk paket: WebRTC canli izleme (hiz/stabilite), tam toplu duzenleme + Ctrl/Shift secim, klasor renk/simge/ic-ice surukleme, nokta atisi hareket verisi, YouTube-tarzi oynatici, disk gostergesi fix, daha kisa kayit bosluklari, KVKK kurulum onayi, ozel logo",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.13.0/INSTONVMS-Server-Update-1.13.0-windows.zip", "sha256": "f49b4d4e4aa183ec7b9d3e8078edea3b756ba8e54a5da3bae6b0a6857991d357" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.13.0/INSTONVMS-Server-Update-1.13.0-linux.zip",   "sha256": "cdff1d965561af1a74a3bea7feca193a25e132a130017555c66839b443d0ac14" }
+  "version": "1.14.0",
+  "notes": "Kamera kısa ID'leri + okunabilir kayıt klasörleri: her kamera arayüz genelinde görünen sıralı bir ID alır; yeni eklenen kameralar diske 'cam<ID>_<isim>' klasörüyle kaydeder (mevcut kameraların kayıtları yerinde kalır). H.265 önizleme ve site-kapsamlı yayın erişimi yeni yol adlarıyla uyumlu.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.0/INSTONVMS-Server-Update-1.14.0-windows.zip", "sha256": "e17951a696b523a6c9f4f2168edbcbb164ac9d27110a75d8d3ab8eed09485afc" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.0/INSTONVMS-Server-Update-1.14.0-linux.zip",   "sha256": "ea4b0b10a1a56259aa4cf5e919f1a125c346ca50f619854f08c299cccc1c2c11" }
 }
