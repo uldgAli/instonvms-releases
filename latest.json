@@ -1,6 +1,6 @@
 {
-  "version": "1.14.1",
-  "notes": "Kritik düzeltme: güncelleme/yeniden başlatma sonrası kameraların çevrimdışı kalması. Sağlık işçisi, henüz bağlanmakta olan kameraların yolunu yeniden kurarak bağlantı denemelerini sürekli sıfırlıyordu; artık otomatik kurtarma yalnızca daha önce yayın vermiş ve takılmış kameralara, başlangıç toleransından sonra ve sınırlı sayıda uygulanıyor.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.1/INSTONVMS-Server-Update-1.14.1-windows.zip", "sha256": "99859b8cb69fcebb12f91990e0cadd46630a421bdd2cbf50d7395b5394358cc7" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.1/INSTONVMS-Server-Update-1.14.1-linux.zip",   "sha256": "2c025af610d4867693e3b36bb2a1a9f74479556721ce0a3c521ef5a4ecebc7cc" }
+  "version": "1.14.2",
+  "notes": "Güncelleme kanalına erişim dayanıklılığı: raw.githubusercontent.com engelli/erişilemez olduğunda güncelleme kontrolü otomatik olarak api.github.com üzerinden aynı dosyaya düşer. Ayrıca v1.14.1'deki kritik düzeltmeyi içerir: yeniden başlatma sonrası kameraların çevrimdışı kalmasına yol açan filo geneli otomatik kurtarma sınırlandırıldı.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.2/INSTONVMS-Server-Update-1.14.2-windows.zip", "sha256": "c64d3d86744ea8246d6f576cf3a612c6f33852b61eca21e4a22f08888ff5cdf6" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.14.2/INSTONVMS-Server-Update-1.14.2-linux.zip",   "sha256": "68818e279cbdb59c47e1e370eb08f1efe8075ff66d3b0d1b03c3e1b56df38067" }
 }
