@@ -1,6 +1,6 @@
 {
-  "version": "1.15.0",
-  "notes": "Kurum markası özelleştirme: Ayarlar > Görünüm bölümünden artık logonun yanı sıra ürün adı ve giriş ekranı alt başlığı da değiştirilebiliyor. Yüklenen logo artık giriş ekranında da görünüyor. Sol üst köşedeki yazı ve giriş ekranındaki başlık kuruma göre uyarlanabilir.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.15.0/INSTONVMS-Server-Update-1.15.0-windows.zip", "sha256": "550e72e69ac663be0c9d55657c7b59488561965869a1e26bda744f227a3dcf1d" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.15.0/INSTONVMS-Server-Update-1.15.0-linux.zip",   "sha256": "792e30344ecf65b17c63a2954e324f08e129d136c6f48414b581f9b02e27e425" }
+  "version": "1.15.1",
+  "notes": "New releases now appear in the header within minutes instead of up to half an hour: the update badge polls the channel every 5 minutes and re-checks when the window regains focus. Redesigned login screen with a layered background, icon-in-field inputs and a configurable ownership line under the form (Settings > Appearance).",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.15.1/INSTONVMS-Server-Update-1.15.1-windows.zip", "sha256": "e68aa19fdbade6025cc5a57370b758dc6f8b52614c80328df2ca4d8c5767bb2a" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.15.1/INSTONVMS-Server-Update-1.15.1-linux.zip",   "sha256": "03dd452215deb3c94742b1ae8c7b0c5c6e5b9fcf9f1080a81c8605795f42218c" }
 }
