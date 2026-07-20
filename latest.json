@@ -1,6 +1,6 @@
 {
-  "version": "1.16.0",
-  "notes": "Switchable video walls: the Canlı page now has wall tabs (a main editable wall plus every saved layout), switching keeps tiles alive so cameras no longer re-dial, and walls are deletable with confirmation. Recordings: no more auto-opening a camera on entry, sync playback fixed (the shared timeline now drives every camera), and a black pane now explains itself — loading spinner or an H.265 notice. Every delete action in the app now asks for confirmation.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.16.0/INSTONVMS-Server-Update-1.16.0-windows.zip", "sha256": "0bad7d4e71207ae2c1e42e47b665e7b39cfa1c0147d19f059e7495a8dbdccab2" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.16.0/INSTONVMS-Server-Update-1.16.0-linux.zip",   "sha256": "b6e37984e2d4af4d0cc6e2cb7bba09fdcd92ad9aa364b6c63e27c3f10ccead51" }
+  "version": "1.17.0",
+  "notes": "Groundwork for a dedicated AI server: the detection service now runs a pool of independent inference sessions (INSTONVMS_DETECTOR_WORKERS) instead of a single one, measured at 2.75x the throughput, and sheds load with 503 when saturated so an edge backs off instead of piling on. Adds bearer-token authentication (INSTONVMS_DETECTOR_TOKEN) required when the detector serves other sites over the network, and a /metrics endpoint. Also restores per-camera timeline strips in synchronised playback.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.17.0/INSTONVMS-Server-Update-1.17.0-windows.zip", "sha256": "f7fc7d98b618a4cacdc0cf584626cd8f05e0690146a6b71714c4d9bc1643cb7c" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.17.0/INSTONVMS-Server-Update-1.17.0-linux.zip",   "sha256": "320af43a1645cae742d2b6a67895f10c3eca7789722765e427afc0074f942d1a" }
 }
