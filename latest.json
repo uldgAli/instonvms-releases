@@ -1,6 +1,6 @@
 {
-  "version": "1.15.2",
-  "notes": "CRITICAL: fixes cameras with audio stripping (video_only) never coming online. v1.13.0 added an ffmpeg flag (-rw_timeout) that the bundled RTSP demuxer does not support, so those cameras' relays exited immediately on startup and a site ran at 59 of 153 cameras online. The relay now uses portable flags only; stalled relays remain covered by the health worker. Install this as soon as possible.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.15.2/INSTONVMS-Server-Update-1.15.2-windows.zip", "sha256": "b98372d089a5645f4b56276b94f566f3e1009a8430dda42e9a8ab9a2146e919f" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.15.2/INSTONVMS-Server-Update-1.15.2-linux.zip",   "sha256": "c1649b3f22b53f686ede54c98e9c5f49d94c0efc20cbc5c06dc5ec0cdc2305fb" }
+  "version": "1.16.0",
+  "notes": "Switchable video walls: the Canlı page now has wall tabs (a main editable wall plus every saved layout), switching keeps tiles alive so cameras no longer re-dial, and walls are deletable with confirmation. Recordings: no more auto-opening a camera on entry, sync playback fixed (the shared timeline now drives every camera), and a black pane now explains itself — loading spinner or an H.265 notice. Every delete action in the app now asks for confirmation.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.16.0/INSTONVMS-Server-Update-1.16.0-windows.zip", "sha256": "0bad7d4e71207ae2c1e42e47b665e7b39cfa1c0147d19f059e7495a8dbdccab2" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.16.0/INSTONVMS-Server-Update-1.16.0-linux.zip",   "sha256": "b6e37984e2d4af4d0cc6e2cb7bba09fdcd92ad9aa364b6c63e27c3f10ccead51" }
 }
