@@ -1,6 +1,6 @@
 {
-  "version": "1.19.0",
-  "notes": "Live tile controls consolidated into a menu with instant client-side snapshots; multi-site filter removed; audit trail expanded with viewing sessions (who watched which camera, how long, which minute-range), semantic search and a view_audit permission; per-category settings permissions with folder-style grouping; floor-plan upload in Settings.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.0/INSTONVMS-Server-Update-1.19.0-windows.zip", "sha256": "3a5a2174d8ca66cc7fa59bee246f8da6837becefe79b6472160d794c089ae517" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.0/INSTONVMS-Server-Update-1.19.0-linux.zip",   "sha256": "de5e946cea9a94aa86a1475b9f3bf5aa3f55a8dae6981f3b8e76fce815ea877a" }
+  "version": "1.19.1",
+  "notes": "Security fix: settings and user-management endpoints are now enforced by exact granular permissions instead of a coarse admin rank, so a custom role can no longer reach settings or users it was never granted. Also hides menu entries and settings tabs a role has no permission for.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.1/INSTONVMS-Server-Update-1.19.1-windows.zip", "sha256": "49a5f13546b7b741732f7c507ef70a60647a73616a83f5d5a70fd035309d7dd5" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.1/INSTONVMS-Server-Update-1.19.1-linux.zip",   "sha256": "050f512f9a2fd1c63476f4bb0a4dbafdafce45f05319f2c890c4ed7e0d36e9fb" }
 }
