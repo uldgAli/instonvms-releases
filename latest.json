@@ -1,6 +1,6 @@
 {
-  "version": "1.23.0",
-  "notes": "Loop recording: a new Disk Management option keeps recording from ever stopping on a full disk. When the disk reaches a chosen fullness, the oldest recordings across all cameras are automatically deleted (keeping a protected number of recent days) so recording continues uninterrupted — the classic NVR overwrite-oldest behaviour. The normal day-based retention is unchanged.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.23.0/INSTONVMS-Server-Update-1.23.0-windows.zip", "sha256": "e40e83bc78962fb58de15279ce4c03834b7d0e7828be58461aa485c078be69ac" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.23.0/INSTONVMS-Server-Update-1.23.0-linux.zip",   "sha256": "2ab8a5e815e37e0cb989f23c812b08afbe7f971fd2886e177b24390b99060465" }
+  "version": "1.24.0",
+  "notes": "Smart Map now supports floor plans as SVG (crisp, infinitely zoomable) and adds pan/zoom navigation: scroll to zoom, drag to pan, fit button, with camera pins tracking the plan. AutoCAD DWG upload is also supported where the server has the DWG converter installed (it auto-converts to a navigable vector). Plus the earlier disk loop-recording, camera recording-quality (ONVIF) and dashboard/disk-management features.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.24.0/INSTONVMS-Server-Update-1.24.0-windows.zip", "sha256": "7084cc53323083742de9b4dae42ff61e3b325c5fcf475e7ab51876a3168e520e" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.24.0/INSTONVMS-Server-Update-1.24.0-linux.zip",   "sha256": "8e342d45c43e05ffb04c0d4eb3bb0302d158142301db34ccee5944664980e94a" }
 }
