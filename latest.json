@@ -1,6 +1,6 @@
 {
-  "version": "1.20.1",
-  "notes": "Dashboard fix: the charts now update correctly when you switch the 1 week / 1 month / 6 months range (they previously kept the prior range's chart after switching back).",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.20.1/INSTONVMS-Server-Update-1.20.1-windows.zip", "sha256": "72695a89a49432c2766608f90162444f33c4464639a47249b080d1ad7faef136" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.20.1/INSTONVMS-Server-Update-1.20.1-linux.zip",   "sha256": "2ed31aeab05f9c0ef73b0b1113684ad787c545a8e5cc91f5a0c89c2954d8a39c" }
+  "version": "1.21.0",
+  "notes": "Redesigned camera settings: the panel that opens when you click a camera now uses a clean, modern two-column form layout (section title + description on the left, fields on the right, separated by rules) instead of stacked boxes.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.21.0/INSTONVMS-Server-Update-1.21.0-windows.zip", "sha256": "6b30b9cee46ba6a95db9429b0451ce084789fde0b12fdc899d0ce4b013b62d35" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.21.0/INSTONVMS-Server-Update-1.21.0-linux.zip",   "sha256": "64dd7f080c8905cc7149525aadf3f4032de13927d497c67a3160735c84044240" }
 }
