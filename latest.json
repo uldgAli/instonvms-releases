@@ -1,6 +1,6 @@
 {
-  "version": "1.20.0",
-  "notes": "New dashboard (Pano): a data-rich operations panel with charts instead of a camera list. Recording-volume trend (1 week / 1 month / 6 months), top-10 cameras by disk usage and by recorded time, disk-fill forecast (how many days until the disk is full), daily alarm chart with a by-type breakdown, and per-camera recording coverage to spot cameras with gaps. Plus the earlier RBAC fixes and per-camera recording-quality (ONVIF encoder) controls.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.20.0/INSTONVMS-Server-Update-1.20.0-windows.zip", "sha256": "a1f94ca1915076dde885d15eda7cdb0a1ff37441741ab085a0e2ade869dc9278" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.20.0/INSTONVMS-Server-Update-1.20.0-linux.zip",   "sha256": "e9938e471e679029c87d66c77507dd6d006d8e0f8e29446e4e44e0789303c71c" }
+  "version": "1.20.1",
+  "notes": "Dashboard fix: the charts now update correctly when you switch the 1 week / 1 month / 6 months range (they previously kept the prior range's chart after switching back).",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.20.1/INSTONVMS-Server-Update-1.20.1-windows.zip", "sha256": "72695a89a49432c2766608f90162444f33c4464639a47249b080d1ad7faef136" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.20.1/INSTONVMS-Server-Update-1.20.1-linux.zip",   "sha256": "2ed31aeab05f9c0ef73b0b1113684ad787c545a8e5cc91f5a0c89c2954d8a39c" }
 }
