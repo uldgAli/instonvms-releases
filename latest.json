@@ -1,6 +1,6 @@
 {
-  "version": "1.19.3",
-  "notes": "Per-camera recording quality: a new 'Kayit Kalitesi' section in camera settings lets you set the camera's resolution, FPS, bitrate, keyframe/GOP interval, quality and H.264 profile over ONVIF. Recording is still a stream-copy (no server transcode), so these values are exactly what gets recorded.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.3/INSTONVMS-Server-Update-1.19.3-windows.zip", "sha256": "ef31526e5e4a0468367116a14b3685f8285f0ee698e65b2fafb38440b0303c24" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.3/INSTONVMS-Server-Update-1.19.3-linux.zip",   "sha256": "86dac927df2e06c9577bf2d2b3647a7cd3ff03d96c336dadad0dbc297ff6a798" }
+  "version": "1.20.0",
+  "notes": "New dashboard (Pano): a data-rich operations panel with charts instead of a camera list. Recording-volume trend (1 week / 1 month / 6 months), top-10 cameras by disk usage and by recorded time, disk-fill forecast (how many days until the disk is full), daily alarm chart with a by-type breakdown, and per-camera recording coverage to spot cameras with gaps. Plus the earlier RBAC fixes and per-camera recording-quality (ONVIF encoder) controls.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.20.0/INSTONVMS-Server-Update-1.20.0-windows.zip", "sha256": "a1f94ca1915076dde885d15eda7cdb0a1ff37441741ab085a0e2ade869dc9278" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.20.0/INSTONVMS-Server-Update-1.20.0-linux.zip",   "sha256": "e9938e471e679029c87d66c77507dd6d006d8e0f8e29446e4e44e0789303c71c" }
 }
