@@ -1,6 +1,6 @@
 {
-  "version": "1.22.0",
-  "notes": "New Disk Management page (next to Map): see how much disk each camera uses, how many days it has recorded and its date span in a sortable, searchable table; a disk overview with a fill bar; and a disk policy editor including a new disk-pressure rule that auto-trims all cameras to the last N days once the disk crosses a chosen fullness. Access is controlled by a new per-role Disk Management permission.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.22.0/INSTONVMS-Server-Update-1.22.0-windows.zip", "sha256": "0e6a6ec9302e82b646695640155069ee04ee58846ac733a56ecbf63b77c37d09" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.22.0/INSTONVMS-Server-Update-1.22.0-linux.zip",   "sha256": "cb1c717db70c149c16cee3331406b67b75423b37fbe5ff372131f3348087554d" }
+  "version": "1.23.0",
+  "notes": "Loop recording: a new Disk Management option keeps recording from ever stopping on a full disk. When the disk reaches a chosen fullness, the oldest recordings across all cameras are automatically deleted (keeping a protected number of recent days) so recording continues uninterrupted — the classic NVR overwrite-oldest behaviour. The normal day-based retention is unchanged.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.23.0/INSTONVMS-Server-Update-1.23.0-windows.zip", "sha256": "e40e83bc78962fb58de15279ce4c03834b7d0e7828be58461aa485c078be69ac" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.23.0/INSTONVMS-Server-Update-1.23.0-linux.zip",   "sha256": "2ab8a5e815e37e0cb989f23c812b08afbe7f971fd2886e177b24390b99060465" }
 }
