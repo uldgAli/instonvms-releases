@@ -1,6 +1,6 @@
 {
-  "version": "1.21.0",
-  "notes": "Redesigned camera settings: the panel that opens when you click a camera now uses a clean, modern two-column form layout (section title + description on the left, fields on the right, separated by rules) instead of stacked boxes.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.21.0/INSTONVMS-Server-Update-1.21.0-windows.zip", "sha256": "6b30b9cee46ba6a95db9429b0451ce084789fde0b12fdc899d0ce4b013b62d35" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.21.0/INSTONVMS-Server-Update-1.21.0-linux.zip",   "sha256": "64dd7f080c8905cc7149525aadf3f4032de13927d497c67a3160735c84044240" }
+  "version": "1.22.0",
+  "notes": "New Disk Management page (next to Map): see how much disk each camera uses, how many days it has recorded and its date span in a sortable, searchable table; a disk overview with a fill bar; and a disk policy editor including a new disk-pressure rule that auto-trims all cameras to the last N days once the disk crosses a chosen fullness. Access is controlled by a new per-role Disk Management permission.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.22.0/INSTONVMS-Server-Update-1.22.0-windows.zip", "sha256": "0e6a6ec9302e82b646695640155069ee04ee58846ac733a56ecbf63b77c37d09" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.22.0/INSTONVMS-Server-Update-1.22.0-linux.zip",   "sha256": "cb1c717db70c149c16cee3331406b67b75423b37fbe5ff372131f3348087554d" }
 }
