@@ -1,6 +1,6 @@
 {
-  "version": "1.19.1",
-  "notes": "Security fix: settings and user-management endpoints are now enforced by exact granular permissions instead of a coarse admin rank, so a custom role can no longer reach settings or users it was never granted. Also hides menu entries and settings tabs a role has no permission for.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.1/INSTONVMS-Server-Update-1.19.1-windows.zip", "sha256": "49a5f13546b7b741732f7c507ef70a60647a73616a83f5d5a70fd035309d7dd5" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.1/INSTONVMS-Server-Update-1.19.1-linux.zip",   "sha256": "050f512f9a2fd1c63476f4bb0a4dbafdafce45f05319f2c890c4ed7e0d36e9fb" }
+  "version": "1.19.2",
+  "notes": "Live view fixes: the 'walls' permission now actually lets a custom role create and save video walls (and PTZ follows its own permission); the right-side camera detail panel no longer opens on every click — open it from the tile ⋮ / right-click menu -> 'Detaylı bilgi'; and each wall tile gets a faint top-left X (on hover) to remove a camera from the wall directly.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.2/INSTONVMS-Server-Update-1.19.2-windows.zip", "sha256": "42f24ce28475e7516693679335b1d086d56814f8f6c30db3deacfc01666d9af6" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.2/INSTONVMS-Server-Update-1.19.2-linux.zip",   "sha256": "c632359a3b2baa6437e63cbb6dbc58299905cc5e694dfbed698842ded60fc81e" }
 }
