@@ -1,6 +1,6 @@
 {
-  "version": "1.19.2",
-  "notes": "Live view fixes: the 'walls' permission now actually lets a custom role create and save video walls (and PTZ follows its own permission); the right-side camera detail panel no longer opens on every click — open it from the tile ⋮ / right-click menu -> 'Detaylı bilgi'; and each wall tile gets a faint top-left X (on hover) to remove a camera from the wall directly.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.2/INSTONVMS-Server-Update-1.19.2-windows.zip", "sha256": "42f24ce28475e7516693679335b1d086d56814f8f6c30db3deacfc01666d9af6" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.2/INSTONVMS-Server-Update-1.19.2-linux.zip",   "sha256": "c632359a3b2baa6437e63cbb6dbc58299905cc5e694dfbed698842ded60fc81e" }
+  "version": "1.19.3",
+  "notes": "Per-camera recording quality: a new 'Kayit Kalitesi' section in camera settings lets you set the camera's resolution, FPS, bitrate, keyframe/GOP interval, quality and H.264 profile over ONVIF. Recording is still a stream-copy (no server transcode), so these values are exactly what gets recorded.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.3/INSTONVMS-Server-Update-1.19.3-windows.zip", "sha256": "ef31526e5e4a0468367116a14b3685f8285f0ee698e65b2fafb38440b0303c24" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.19.3/INSTONVMS-Server-Update-1.19.3-linux.zip",   "sha256": "86dac927df2e06c9577bf2d2b3647a7cd3ff03d96c336dadad0dbc297ff6a798" }
 }
