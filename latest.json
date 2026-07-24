@@ -1,6 +1,6 @@
 {
-  "version": "1.35.0",
-  "notes": "New: Automation Engine (Settings > Otomasyon). Create rules that run actions automatically when an alarm fires — send a push notification or e-mail, call a webhook, or point a PTZ camera at a preset. Match rules by alarm type, severity (warning/critical) and camera. Fully server-side and isolated from recording.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.35.0/INSTONVMS-Server-Update-1.35.0-windows.zip", "sha256": "7e581073d993c5565919a0a53d355ba403c19c9629b97303cd9d110725cccf02" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.35.0/INSTONVMS-Server-Update-1.35.0-linux.zip",   "sha256": "f5e6d42582622cbdb01b359700fbb523b830b6825e6d933e5ec3780931f51da7" }
+  "version": "1.36.0",
+  "notes": "Recordings improvements: (1) the info panel and the camera checkbox no longer appear while reviewing footage; (2) clicking a moment on the timeline starts playing faster (no video reload); (3) synchronized playback now lets each camera play its OWN time independently, with a new 'Ortak cubuk' (common bar) that snaps them all to the same moment when you click it; (4) the sync timelines are more compact so they don't crowd out the video.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.0/INSTONVMS-Server-Update-1.36.0-windows.zip", "sha256": "da916ea8cc8d83df4947e76557a88b5c9bb21f86de9e9c92f26742b12fd5fe85" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.0/INSTONVMS-Server-Update-1.36.0-linux.zip",   "sha256": "dfebaf0bb00007b825365e2e1a8719d69af452f9e2c4c5a1a887bd7de628a33b" }
 }
