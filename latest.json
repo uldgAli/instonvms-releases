@@ -1,6 +1,6 @@
 {
-  "version": "1.37.1",
-  "notes": "The recording timeline has a modern new look: a glass track, rounded recording blocks with a subtle sheen, a slim glowing motion lane, and a knobbed glowing playhead. Same colors (from your timeline settings) and same fast behavior.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.37.1/INSTONVMS-Server-Update-1.37.1-windows.zip", "sha256": "92cc59671068479014b32459a4646eeec4eb8dcac6ae58eacb87018724fba0c8" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.37.1/INSTONVMS-Server-Update-1.37.1-linux.zip",   "sha256": "e6ae99aa67291e65842c1504ac5c00e26ccb117bd440d824a2d7ba235bf67dcb" }
+  "version": "1.38.0",
+  "notes": "New: live instant replay. Double-click a camera on the Live wall to view it full and a scrub bar appears — rewind into the last few hours of recording, pause/step, then jump back to CANLI (live). Also: press-and-hold the timeline to see a millisecond-precise time; the synced 'common bar' is now visually distinct; and recording playback starts faster (removed proxy buffering).",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.0/INSTONVMS-Server-Update-1.38.0-windows.zip", "sha256": "e34785b2139e940b5b713ab95b9e697d88339599e42db6fd4f614931f3555cfd" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.0/INSTONVMS-Server-Update-1.38.0-linux.zip",   "sha256": "647dac3a4f76bb7a5029c0d2c5b37e73b02352cb69b97c78f9b728d996a1f11c" }
 }
