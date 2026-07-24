@@ -1,6 +1,6 @@
 {
-  "version": "1.28.0",
-  "notes": "New feature: Recording Schedules. Create weekly time templates (e.g. weekdays 08:00-18:00, nightly 20:00-06:00) with a drag-to-paint grid, then assign cameras to a schedule in Camera Settings > Recording. A scheduled camera records only during those hours and stays live (no recording) outside them — a practical way to reduce disk use without switching to motion-only recording.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.28.0/INSTONVMS-Server-Update-1.28.0-windows.zip", "sha256": "73521429e3ffb6d0e60a3b3bc2c6535ed8895e955c9badf11631a54dc910dcd2" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.28.0/INSTONVMS-Server-Update-1.28.0-linux.zip",   "sha256": "1b69ffe690b557cfe21df3809f4ff3a16b86a4b474dfef7061709417d77093df" }
+  "version": "1.29.0",
+  "notes": "Security hardening: added a Content-Security-Policy and Permissions-Policy (blocks injected scripts and unused device APIs), brute-force account lockouts now raise a searchable security-audit entry and a webhook alert, and a new optional auto-logout after N minutes of inactivity (Settings > Startup) protects an unattended operator station.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.29.0/INSTONVMS-Server-Update-1.29.0-windows.zip", "sha256": "a26770b783bb2f3802c1c415c97ab0405666be5752f2ef537c1ed2a5255ff704" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.29.0/INSTONVMS-Server-Update-1.29.0-linux.zip",   "sha256": "4577037a4a924c3c75ac998d86b841de8187f973f20c4327f5d47cdcf5461f52" }
 }
