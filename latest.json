@@ -1,6 +1,6 @@
 {
-  "version": "1.33.0",
-  "notes": "New: a switch in Disk Management > Disk Policy to turn the 'disk filling up' warning on or off. The critical (data-loss) alarm always stays on — only the early warning is silenced.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.33.0/INSTONVMS-Server-Update-1.33.0-windows.zip", "sha256": "3869b96915c70160401f49d71e6db2cd52199fb9a89f2f465f70c9eda95213ee" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.33.0/INSTONVMS-Server-Update-1.33.0-linux.zip",   "sha256": "e85481947c18f147d3e2dfe63145a27e9fffe5abc2ad8c6b2cafa6fc3cd83410" }
+  "version": "1.34.0",
+  "notes": "New: Central Search. A new 'Merkezi' tab on the Search page searches across many cameras and event types at once — object detections, bookmarks and alarms — and shows one merged, newest-first timeline. Pick any set of cameras (or all), toggle which event types to include, filter by object class, and click a result to jump straight to that camera's recording at the moment it happened.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.34.0/INSTONVMS-Server-Update-1.34.0-windows.zip", "sha256": "6ccc1a120e6cd5be22969ca4eaeb58031ba7dfa4e4e6b71387ffb6f5753e7c9d" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.34.0/INSTONVMS-Server-Update-1.34.0-linux.zip",   "sha256": "4f9a4a9ed932707e20530795f95c050c56ae3060f78114de88100a614b070148" }
 }
