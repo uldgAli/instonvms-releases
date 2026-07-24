@@ -1,6 +1,6 @@
 {
-  "version": "1.27.0",
-  "notes": "Important recording-continuity fix: on a disk too small for the chosen retention, the disk could fill to 100% and stop recording because neither the day-retention nor the loop-recording 'protect days' window had anything old enough to delete. The disk guard now always frees the oldest footage to keep the disk below the threshold and recording running. Disk Management also shows how many days the disk actually holds and warns when it is undersized.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.27.0/INSTONVMS-Server-Update-1.27.0-windows.zip", "sha256": "1bd9f0f4d827638794a23487ae95d3ff9ffb96ee9bde3de48c955ca1ea03198f" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.27.0/INSTONVMS-Server-Update-1.27.0-linux.zip",   "sha256": "b1f3b6186c43f740894aae6e212183aa2d0cc654ec1e33984ea55f651d7c34a8" }
+  "version": "1.28.0",
+  "notes": "New feature: Recording Schedules. Create weekly time templates (e.g. weekdays 08:00-18:00, nightly 20:00-06:00) with a drag-to-paint grid, then assign cameras to a schedule in Camera Settings > Recording. A scheduled camera records only during those hours and stays live (no recording) outside them — a practical way to reduce disk use without switching to motion-only recording.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.28.0/INSTONVMS-Server-Update-1.28.0-windows.zip", "sha256": "73521429e3ffb6d0e60a3b3bc2c6535ed8895e955c9badf11631a54dc910dcd2" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.28.0/INSTONVMS-Server-Update-1.28.0-linux.zip",   "sha256": "1b69ffe690b557cfe21df3809f4ff3a16b86a4b474dfef7061709417d77093df" }
 }
