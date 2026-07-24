@@ -1,6 +1,6 @@
 {
-  "version": "1.32.0",
-  "notes": "New: Alarm Manager. Alarms now have a priority (high/medium/low), a workflow state (New -> In progress -> On hold -> Closed), an owner you can assign, and a comment thread — so a team can triage and hand off alarms, not just acknowledge them. Filter the list by state, priority or camera; click an alarm to open the triage panel.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.32.0/INSTONVMS-Server-Update-1.32.0-windows.zip", "sha256": "cea80919437e6b84efb6bcb84796d0516fe78173dfbc990ca70de33c1a8b857b" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.32.0/INSTONVMS-Server-Update-1.32.0-linux.zip",   "sha256": "5592816394bc26f1b55c3fa7dc46f46f2b0d818a03ec951126d109996f018d98" }
+  "version": "1.33.0",
+  "notes": "New: a switch in Disk Management > Disk Policy to turn the 'disk filling up' warning on or off. The critical (data-loss) alarm always stays on — only the early warning is silenced.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.33.0/INSTONVMS-Server-Update-1.33.0-windows.zip", "sha256": "3869b96915c70160401f49d71e6db2cd52199fb9a89f2f465f70c9eda95213ee" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.33.0/INSTONVMS-Server-Update-1.33.0-linux.zip",   "sha256": "e85481947c18f147d3e2dfe63145a27e9fffe5abc2ad8c6b2cafa6fc3cd83410" }
 }
