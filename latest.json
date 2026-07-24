@@ -1,6 +1,6 @@
 {
-  "version": "1.25.0",
-  "notes": "Camera settings redesign: the panel that opens when you click a camera now uses modern cards (icon + title + description per section: General, Connection, Recording, Recording Quality, AI) with an iconed section navigation, replacing the flat layout.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.25.0/INSTONVMS-Server-Update-1.25.0-windows.zip", "sha256": "0426ac0845b7ebec26a8a10e8628a91a77f54e8ef1ecd5826c4b4495477ea4df" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.25.0/INSTONVMS-Server-Update-1.25.0-linux.zip",   "sha256": "8a0464232924b5c65b5dcd7d1a6aa58fbfbfe9b0a6f6e9712f5d4a4096bbab86" }
+  "version": "1.25.1",
+  "notes": "Camera settings polish: the old checkboxes (camera enabled, continuous recording, drop audio, AI detection, bulk edit) are now modern switches.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.25.1/INSTONVMS-Server-Update-1.25.1-windows.zip", "sha256": "bf0988dcb93a7c1258dd9d6fdbe9945d01f3260aeccdcfab0d982b89fae6c238" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.25.1/INSTONVMS-Server-Update-1.25.1-linux.zip",   "sha256": "9cd0e61366dee6af5d2cbb6f55409ac7608fa35caf2aa2625f8412b0aa15ca2b" }
 }
