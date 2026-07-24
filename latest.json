@@ -1,6 +1,6 @@
 {
-  "version": "1.38.1",
-  "notes": "Speed: recording playback now starts as soon as the first video fragment arrives. A wrapper in the request pipeline was hiding the stream-flush capability, so the server buffered before sending the first frame on every seek — fixed. Seeks should feel much snappier.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.1/INSTONVMS-Server-Update-1.38.1-windows.zip", "sha256": "4cf9fd8f277eb150dbb743ebd93afb1352310d2d1b46ca3895c83f142d505319" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.1/INSTONVMS-Server-Update-1.38.1-linux.zip",   "sha256": "8dad5e56609f24236c25efcf472178206a56f9e9543a3442aef5683b3e451a2c" }
+  "version": "1.38.2",
+  "notes": "Fix: in synchronized multi-camera playback the tiles now fill the grid cleanly instead of floating in large black bars. A single camera still shows the whole frame.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.2/INSTONVMS-Server-Update-1.38.2-windows.zip", "sha256": "01c21a1c54698d7664880c1142ca095aca6260cb011ee455199422c376ee95a7" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.2/INSTONVMS-Server-Update-1.38.2-linux.zip",   "sha256": "0c438fc3b2ee19faac8707e2fed0778bd84631aad755642fbe9e6e8f2a4231ac" }
 }
