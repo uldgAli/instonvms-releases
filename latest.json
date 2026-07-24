@@ -1,6 +1,6 @@
 {
-  "version": "1.38.0",
-  "notes": "New: live instant replay. Double-click a camera on the Live wall to view it full and a scrub bar appears — rewind into the last few hours of recording, pause/step, then jump back to CANLI (live). Also: press-and-hold the timeline to see a millisecond-precise time; the synced 'common bar' is now visually distinct; and recording playback starts faster (removed proxy buffering).",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.0/INSTONVMS-Server-Update-1.38.0-windows.zip", "sha256": "e34785b2139e940b5b713ab95b9e697d88339599e42db6fd4f614931f3555cfd" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.0/INSTONVMS-Server-Update-1.38.0-linux.zip",   "sha256": "647dac3a4f76bb7a5029c0d2c5b37e73b02352cb69b97c78f9b728d996a1f11c" }
+  "version": "1.38.1",
+  "notes": "Speed: recording playback now starts as soon as the first video fragment arrives. A wrapper in the request pipeline was hiding the stream-flush capability, so the server buffered before sending the first frame on every seek — fixed. Seeks should feel much snappier.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.1/INSTONVMS-Server-Update-1.38.1-windows.zip", "sha256": "4cf9fd8f277eb150dbb743ebd93afb1352310d2d1b46ca3895c83f142d505319" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.1/INSTONVMS-Server-Update-1.38.1-linux.zip",   "sha256": "8dad5e56609f24236c25efcf472178206a56f9e9543a3442aef5683b3e451a2c" }
 }
