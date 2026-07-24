@@ -1,6 +1,6 @@
 {
-  "version": "1.31.0",
-  "notes": "New feature: PTZ Patrol (guard tour). Open the PTZ controls on a camera, click 'Devriye...', order preset positions with a dwell time each, and turn it on — the camera then automatically cycles between the presets. Runs server-side so it keeps going even if no one is watching.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.31.0/INSTONVMS-Server-Update-1.31.0-windows.zip", "sha256": "00c7cf13d7928362e4f7f051597e7d7d1e4b485b5e1af5bf34bc3f20ab1f9a5a" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.31.0/INSTONVMS-Server-Update-1.31.0-linux.zip",   "sha256": "8757f0e06f046453217028c2d132641f4fa086a91e6923620b82dcc26beba3a3" }
+  "version": "1.32.0",
+  "notes": "New: Alarm Manager. Alarms now have a priority (high/medium/low), a workflow state (New -> In progress -> On hold -> Closed), an owner you can assign, and a comment thread — so a team can triage and hand off alarms, not just acknowledge them. Filter the list by state, priority or camera; click an alarm to open the triage panel.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.32.0/INSTONVMS-Server-Update-1.32.0-windows.zip", "sha256": "cea80919437e6b84efb6bcb84796d0516fe78173dfbc990ca70de33c1a8b857b" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.32.0/INSTONVMS-Server-Update-1.32.0-linux.zip",   "sha256": "5592816394bc26f1b55c3fa7dc46f46f2b0d818a03ec951126d109996f018d98" }
 }
