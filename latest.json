@@ -1,6 +1,6 @@
 {
-  "version": "1.37.0",
-  "notes": "Polish: subtle, professional motion across the UI — buttons press, dialogs and modals gently lift in, side panels slide, toasts slide in, and pages fade on navigation. All restrained and disabled automatically if your system prefers reduced motion.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.37.0/INSTONVMS-Server-Update-1.37.0-windows.zip", "sha256": "d23256309ced6ad0ccd0bcd84f6bc42739c31ffd7cf850f25099e6cc96b4d971" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.37.0/INSTONVMS-Server-Update-1.37.0-linux.zip",   "sha256": "eea24c16d4347e781ca9bb9b2cf7cf3e16436ffa0e5dda69a5b5bcfb5740c891" }
+  "version": "1.37.1",
+  "notes": "The recording timeline has a modern new look: a glass track, rounded recording blocks with a subtle sheen, a slim glowing motion lane, and a knobbed glowing playhead. Same colors (from your timeline settings) and same fast behavior.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.37.1/INSTONVMS-Server-Update-1.37.1-windows.zip", "sha256": "92cc59671068479014b32459a4646eeec4eb8dcac6ae58eacb87018724fba0c8" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.37.1/INSTONVMS-Server-Update-1.37.1-linux.zip",   "sha256": "e6ae99aa67291e65842c1504ac5c00e26ccb117bd440d824a2d7ba235bf67dcb" }
 }
