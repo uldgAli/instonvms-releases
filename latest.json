@@ -1,6 +1,6 @@
 {
-  "version": "1.36.1",
-  "notes": "Fix: recover from post-update crashes caused by a stale cached bundle. The error screen now has a 'Yenile ve onbellegi temizle' (Refresh and clear cache) button that clears the cache and reloads fresh. If a page ever breaks right after an update, click it.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.1/INSTONVMS-Server-Update-1.36.1-windows.zip", "sha256": "664e54e28bd7fa8410361f9512ca1a7ef93d77969f9234d2961dd8efe5ef735c" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.1/INSTONVMS-Server-Update-1.36.1-linux.zip",   "sha256": "02f5c15ed8bff23f7d295cee1a0d0c1f900a001a70aaa422ed9019c181541ee1" }
+  "version": "1.36.2",
+  "notes": "Fix: the Recordings page could crash ('Cannot read properties of null') when using synchronized multi-camera playback. Fixed.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.2/INSTONVMS-Server-Update-1.36.2-windows.zip", "sha256": "35ff00842c2d8fd41380c380c147e37ea76b18238aa98e2110b1582276ebc9d7" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.2/INSTONVMS-Server-Update-1.36.2-linux.zip",   "sha256": "c8ad9641995580191bdbe570e5075b3a597f7433b240cda028ef8df0666502ec" }
 }
