@@ -1,6 +1,6 @@
 {
-  "version": "1.29.0",
-  "notes": "Security hardening: added a Content-Security-Policy and Permissions-Policy (blocks injected scripts and unused device APIs), brute-force account lockouts now raise a searchable security-audit entry and a webhook alert, and a new optional auto-logout after N minutes of inactivity (Settings > Startup) protects an unattended operator station.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.29.0/INSTONVMS-Server-Update-1.29.0-windows.zip", "sha256": "a26770b783bb2f3802c1c415c97ab0405666be5752f2ef537c1ed2a5255ff704" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.29.0/INSTONVMS-Server-Update-1.29.0-linux.zip",   "sha256": "4577037a4a924c3c75ac998d86b841de8187f973f20c4327f5d47cdcf5461f52" }
+  "version": "1.30.0",
+  "notes": "New live-view 'Sequence' mode (spot monitor / guard tour): when a wall has more than one page, a 'Sıralı' button auto-cycles through all pages every N seconds (3–60), so one station shows every camera in turn hands-free. Pauses while you solo a tile.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.30.0/INSTONVMS-Server-Update-1.30.0-windows.zip", "sha256": "d40cd26b74c1bab28bb4e013a672e5f47c3e06ba8b9c77dd65c67c8ac7a43889" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.30.0/INSTONVMS-Server-Update-1.30.0-linux.zip",   "sha256": "067156ae6fce5d8a85e8b38bfe6666096281f1b3f71eb5fb6d9856631ed76236" }
 }
