@@ -1,6 +1,6 @@
 {
-  "version": "1.36.0",
-  "notes": "Recordings improvements: (1) the info panel and the camera checkbox no longer appear while reviewing footage; (2) clicking a moment on the timeline starts playing faster (no video reload); (3) synchronized playback now lets each camera play its OWN time independently, with a new 'Ortak cubuk' (common bar) that snaps them all to the same moment when you click it; (4) the sync timelines are more compact so they don't crowd out the video.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.0/INSTONVMS-Server-Update-1.36.0-windows.zip", "sha256": "da916ea8cc8d83df4947e76557a88b5c9bb21f86de9e9c92f26742b12fd5fe85" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.0/INSTONVMS-Server-Update-1.36.0-linux.zip",   "sha256": "dfebaf0bb00007b825365e2e1a8719d69af452f9e2c4c5a1a887bd7de628a33b" }
+  "version": "1.36.1",
+  "notes": "Fix: recover from post-update crashes caused by a stale cached bundle. The error screen now has a 'Yenile ve onbellegi temizle' (Refresh and clear cache) button that clears the cache and reloads fresh. If a page ever breaks right after an update, click it.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.1/INSTONVMS-Server-Update-1.36.1-windows.zip", "sha256": "664e54e28bd7fa8410361f9512ca1a7ef93d77969f9234d2961dd8efe5ef735c" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.36.1/INSTONVMS-Server-Update-1.36.1-linux.zip",   "sha256": "02f5c15ed8bff23f7d295cee1a0d0c1f900a001a70aaa422ed9019c181541ee1" }
 }
