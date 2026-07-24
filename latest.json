@@ -1,6 +1,6 @@
 {
-  "version": "1.30.0",
-  "notes": "New live-view 'Sequence' mode (spot monitor / guard tour): when a wall has more than one page, a 'Sıralı' button auto-cycles through all pages every N seconds (3–60), so one station shows every camera in turn hands-free. Pauses while you solo a tile.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.30.0/INSTONVMS-Server-Update-1.30.0-windows.zip", "sha256": "d40cd26b74c1bab28bb4e013a672e5f47c3e06ba8b9c77dd65c67c8ac7a43889" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.30.0/INSTONVMS-Server-Update-1.30.0-linux.zip",   "sha256": "067156ae6fce5d8a85e8b38bfe6666096281f1b3f71eb5fb6d9856631ed76236" }
+  "version": "1.31.0",
+  "notes": "New feature: PTZ Patrol (guard tour). Open the PTZ controls on a camera, click 'Devriye...', order preset positions with a dwell time each, and turn it on — the camera then automatically cycles between the presets. Runs server-side so it keeps going even if no one is watching.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.31.0/INSTONVMS-Server-Update-1.31.0-windows.zip", "sha256": "00c7cf13d7928362e4f7f051597e7d7d1e4b485b5e1af5bf34bc3f20ab1f9a5a" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.31.0/INSTONVMS-Server-Update-1.31.0-linux.zip",   "sha256": "8757f0e06f046453217028c2d132641f4fa086a91e6923620b82dcc26beba3a3" }
 }
