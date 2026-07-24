@@ -1,6 +1,6 @@
 {
-  "version": "1.26.0",
-  "notes": "Live view fixes: (1) cameras that showed connected but black are now detected by a frame watchdog and auto-reconnected (forcing a fresh keyframe) so the picture recovers instead of staying black. (2) New 'Picture fit' setting (Settings > Video): 'Whole camera' (no cropping, default) or 'Fill' (fills the tile) — so you can always see the full camera in any grid layout.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.26.0/INSTONVMS-Server-Update-1.26.0-windows.zip", "sha256": "ed44346c00d2278bb58fb107c351e5b5dbbd92bc5e6d0ff577cfc527737b61af" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.26.0/INSTONVMS-Server-Update-1.26.0-linux.zip",   "sha256": "c169cde05d43bff98c3c7b09f64dee64c9d7c31892a036cf3956670876a8fb42" }
+  "version": "1.27.0",
+  "notes": "Important recording-continuity fix: on a disk too small for the chosen retention, the disk could fill to 100% and stop recording because neither the day-retention nor the loop-recording 'protect days' window had anything old enough to delete. The disk guard now always frees the oldest footage to keep the disk below the threshold and recording running. Disk Management also shows how many days the disk actually holds and warns when it is undersized.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.27.0/INSTONVMS-Server-Update-1.27.0-windows.zip", "sha256": "1bd9f0f4d827638794a23487ae95d3ff9ffb96ee9bde3de48c955ca1ea03198f" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.27.0/INSTONVMS-Server-Update-1.27.0-linux.zip",   "sha256": "b1f3b6186c43f740894aae6e212183aa2d0cc654ec1e33984ea55f651d7c34a8" }
 }
