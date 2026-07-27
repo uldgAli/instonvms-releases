@@ -1,6 +1,6 @@
 {
-  "version": "1.40.0",
-  "notes": "Camera hover preview in the Live, Recordings and Camera Settings sidebars — resting the mouse on a camera shows a current still frame.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.40.0/INSTONVMS-Server-Update-1.40.0-windows.zip", "sha256": "c91e17de71fb57cd5e488b05333b39a29caf7e57cacdbf4ed0337e1996fa29c0" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.40.0/INSTONVMS-Server-Update-1.40.0-linux.zip",   "sha256": "febee5f3f8eaf40374c1bb471adb791db4953fb32a52edca1e60b698ab6dc3ba" }
+  "version": "1.41.0",
+  "notes": "Always-warm camera previews: sidebar hover shows a current frame instantly (server-side warmer + client prefetch), no loading wait.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.41.0/INSTONVMS-Server-Update-1.41.0-windows.zip", "sha256": "b7c7dc55cb6da14980ae2e801e6b601e02faf6fcd050c477ed8d01c852b4982e" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.41.0/INSTONVMS-Server-Update-1.41.0-linux.zip",   "sha256": "02224e2fd57a91ca0baae767eda498ca3009a3a6e4c91cb30da3163595a2f3af" }
 }
