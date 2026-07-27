@@ -1,6 +1,6 @@
 {
-  "version": "1.38.2",
-  "notes": "Fix: in synchronized multi-camera playback the tiles now fill the grid cleanly instead of floating in large black bars. A single camera still shows the whole frame.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.2/INSTONVMS-Server-Update-1.38.2-windows.zip", "sha256": "01c21a1c54698d7664880c1142ca095aca6260cb011ee455199422c376ee95a7" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.38.2/INSTONVMS-Server-Update-1.38.2-linux.zip",   "sha256": "0c438fc3b2ee19faac8707e2fed0778bd84631aad755642fbe9e6e8f2a4231ac" }
+  "version": "1.39.0",
+  "notes": "NTP time sync configuration (Settings > Regional) and read-only Network tab (server hostname + interface IPs).",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.39.0/INSTONVMS-Server-Update-1.39.0-windows.zip", "sha256": "294dc9f774d6c75e173b9b58104a3c84ab9a37e9868db33410e778148b7bbe30" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.39.0/INSTONVMS-Server-Update-1.39.0-linux.zip",   "sha256": "73dd5218814b29e0bf637bb86cd947fae37cd79d9c5efa15926a564f0834cdc4" }
 }
