@@ -1,6 +1,6 @@
 {
-  "version": "1.43.0",
-  "notes": "Recordings playback + sync redesigned: new zoomable pro timeline (mouse-wheel zoom, drag-pan), a distinct sync common bar, per-camera seek moved onto each tile, and a much larger video area.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.43.0/INSTONVMS-Server-Update-1.43.0-windows.zip", "sha256": "cd6bbe1c5cd4a92d15fd603cf7f827ec2c85875db44a4137f5ddd442512d2d7a" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.43.0/INSTONVMS-Server-Update-1.43.0-linux.zip",   "sha256": "05281b13d1522e16735bdfac6ac3917b229ec27b05b35465c4ed976891f98670" }
+  "version": "1.44.0",
+  "notes": "Readable recording-folder map: the recordings root gets a _KAMERALAR.txt (folder to camera) and a _kameralar/ folder of readably-named shortcuts, so you can tell which cam_<id> folder is which camera without renaming live folders.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.44.0/INSTONVMS-Server-Update-1.44.0-windows.zip", "sha256": "b6d035b38b471e385a1dbb7db6b1f4cbb46e8ee93eb141a6dbefdcaad2e0c69e" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.44.0/INSTONVMS-Server-Update-1.44.0-linux.zip",   "sha256": "f3ae1c53fb416b34e48b7917a1614615c5d94cdd9f7d271150af99b03da1054e" }
 }
