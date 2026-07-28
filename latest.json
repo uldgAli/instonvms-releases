@@ -1,6 +1,6 @@
 {
-  "version": "1.42.0",
-  "notes": "Faster preview snapshots (bounded ffmpeg stream analysis) so sidebar hover previews load quickly across many cameras.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.42.0/INSTONVMS-Server-Update-1.42.0-windows.zip", "sha256": "65d0caca67fba763df47c0e2e7b3ccd9f740a438d4813392cfcf4b2a22c4016c" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.42.0/INSTONVMS-Server-Update-1.42.0-linux.zip",   "sha256": "ef5490f7a926295b474b785e31a66166a14365f1135f17a8fe41bb8de0e8aa13" }
+  "version": "1.43.0",
+  "notes": "Recordings playback + sync redesigned: new zoomable pro timeline (mouse-wheel zoom, drag-pan), a distinct sync common bar, per-camera seek moved onto each tile, and a much larger video area.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.43.0/INSTONVMS-Server-Update-1.43.0-windows.zip", "sha256": "cd6bbe1c5cd4a92d15fd603cf7f827ec2c85875db44a4137f5ddd442512d2d7a" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.43.0/INSTONVMS-Server-Update-1.43.0-linux.zip",   "sha256": "05281b13d1522e16735bdfac6ac3917b229ec27b05b35465c4ed976891f98670" }
 }
