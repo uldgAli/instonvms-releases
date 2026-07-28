@@ -1,6 +1,6 @@
 {
-  "version": "1.41.0",
-  "notes": "Always-warm camera previews: sidebar hover shows a current frame instantly (server-side warmer + client prefetch), no loading wait.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.41.0/INSTONVMS-Server-Update-1.41.0-windows.zip", "sha256": "b7c7dc55cb6da14980ae2e801e6b601e02faf6fcd050c477ed8d01c852b4982e" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.41.0/INSTONVMS-Server-Update-1.41.0-linux.zip",   "sha256": "02224e2fd57a91ca0baae767eda498ca3009a3a6e4c91cb30da3163595a2f3af" }
+  "version": "1.42.0",
+  "notes": "Faster preview snapshots (bounded ffmpeg stream analysis) so sidebar hover previews load quickly across many cameras.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.42.0/INSTONVMS-Server-Update-1.42.0-windows.zip", "sha256": "65d0caca67fba763df47c0e2e7b3ccd9f740a438d4813392cfcf4b2a22c4016c" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.42.0/INSTONVMS-Server-Update-1.42.0-linux.zip",   "sha256": "ef5490f7a926295b474b785e31a66166a14365f1135f17a8fe41bb8de0e8aa13" }
 }
