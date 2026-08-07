@@ -1,6 +1,6 @@
 {
-  "version": "1.54.0",
-  "notes": "Keyboard control for recordings: Space play/pause, J/K/L speed, arrows step a frame, Shift+arrows jump 10s, +/-/0 zoom, I/O mark in/out, E export, M bookmark, F fullscreen, 1-9 switch camera, ? shows all shortcuts. The clock is now frame-precise.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.54.0/INSTONVMS-Server-Update-1.54.0-windows.zip", "sha256": "03618fbb01303564e2f7aa93161e17eb00edf2a7a0fad210bd72219c9a61cd7d" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.54.0/INSTONVMS-Server-Update-1.54.0-linux.zip",   "sha256": "a708f2173de95f02a57af4423158e31fada2767eaa9048599e7a02f5f58509e1" }
+  "version": "1.55.0",
+  "notes": "Recording timeline is now screen-reader accessible (announces the playhead time, keyboard-operable, visible focus) and ships a hidden performance overlay for diagnostics (add ?debug=1).",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.55.0/INSTONVMS-Server-Update-1.55.0-windows.zip", "sha256": "c21bc0df4596d7009f4e85b8f46677b5c6d99f2aa18ff85572a4f0261a74dd71" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.55.0/INSTONVMS-Server-Update-1.55.0-linux.zip",   "sha256": "ee7e34dade8564275d7824f3381984d3081074bdc86834d1d8702c5c82454e0e" }
 }
