@@ -1,6 +1,6 @@
 {
-  "version": "1.53.0",
-  "notes": "Visual export on the timeline: use the scissors button (or Alt-drag) to mark an in/out range, drag the handles to fine-tune, see the duration and a gap warning, then export the clip.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.53.0/INSTONVMS-Server-Update-1.53.0-windows.zip", "sha256": "3e4259f5cd3eaa1552b2325178e00fd0762c1d06e2fca89e5566eb35d3faaa3e" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.53.0/INSTONVMS-Server-Update-1.53.0-linux.zip",   "sha256": "1b144d7e6e8419f0f014917f44c986ec679d25b0a0ed7bb11b96bb7d18bc5cdd" }
+  "version": "1.54.0",
+  "notes": "Keyboard control for recordings: Space play/pause, J/K/L speed, arrows step a frame, Shift+arrows jump 10s, +/-/0 zoom, I/O mark in/out, E export, M bookmark, F fullscreen, 1-9 switch camera, ? shows all shortcuts. The clock is now frame-precise.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.54.0/INSTONVMS-Server-Update-1.54.0-windows.zip", "sha256": "03618fbb01303564e2f7aa93161e17eb00edf2a7a0fad210bd72219c9a61cd7d" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.54.0/INSTONVMS-Server-Update-1.54.0-linux.zip",   "sha256": "a708f2173de95f02a57af4423158e31fada2767eaa9048599e7a02f5f58509e1" }
 }
