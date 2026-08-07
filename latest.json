@@ -1,6 +1,6 @@
 {
-  "version": "1.49.0",
-  "notes": "Much faster start when viewing old recordings: each jump now loads a short window that begins near-instantly, and playback continues seamlessly into the next window (also auto-skipping gaps) so it still plays as one continuous recording.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.49.0/INSTONVMS-Server-Update-1.49.0-windows.zip", "sha256": "535c4aba83207a06faebdc69c279f18e406e868e62714e80e9505f65800e5988" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.49.0/INSTONVMS-Server-Update-1.49.0-linux.zip",   "sha256": "433893417c93edf99664aa6343551697a68b5f71a787f7cdae4787377bdbbffe" }
+  "version": "1.50.0",
+  "notes": "New recording timeline: a canvas-based engine with cursor-anchored wheel zoom, drag-to-pan, click-to-seek, hover preview line, pinch on touch, a distinct recording/gap/motion/event layout and a glowing playhead that follows playback. Playback itself is unchanged.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.50.0/INSTONVMS-Server-Update-1.50.0-windows.zip", "sha256": "20c7e7301f67181ed6d5fe10d5cbbf361d4b488e03e226b8c797c55c634e4ea6" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.50.0/INSTONVMS-Server-Update-1.50.0-linux.zip",   "sha256": "b76b66928f2a450f32f7625cf0c15062acba7ee6197a9327b6954548a267cff7" }
 }
