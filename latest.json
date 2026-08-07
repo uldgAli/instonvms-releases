@@ -1,6 +1,6 @@
 {
-  "version": "1.58.0",
-  "notes": "Multi-camera sync now stays locked: extra angles are held to the master camera's exact time and no longer drift apart. Toggle Kilitli/Bağımsız to switch between synced and independent playback.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.58.0/INSTONVMS-Server-Update-1.58.0-windows.zip", "sha256": "b8ea1107cd93d5137698e593affe5e9ddb14ff0464f8413d93eb9c7915dabf60" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.58.0/INSTONVMS-Server-Update-1.58.0-linux.zip",   "sha256": "9c546553efcc8c618a05dc8b9676be0b5320268302c8c5f065c3956a4b64f240" }
+  "version": "1.59.0",
+  "notes": "The zoomed-in timeline now marks AI detections (people, vehicles, etc.) on the event lane, and Alt+Left/Right jumps between events (bookmarks and detections).",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.59.0/INSTONVMS-Server-Update-1.59.0-windows.zip", "sha256": "834805e0b6eb47db6e6296840d128ffdd22fecc26c5a805ae0f01fec9ef76313" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.59.0/INSTONVMS-Server-Update-1.59.0-linux.zip",   "sha256": "0c8b862163adf823d29cf4236f6b82eb74bed38251c9d6db11b1048a5dafe6a8" }
 }
