@@ -1,6 +1,6 @@
 {
-  "version": "1.48.0",
-  "notes": "Playback controls moved onto the timeline: play/pause, frame-step, skip and speed now sit as a deck on the scrubber (Milestone-style) instead of floating over the video.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.48.0/INSTONVMS-Server-Update-1.48.0-windows.zip", "sha256": "e0b5454c9eb39e510aa4d1f2e099b807145761255431738e0f741d45b345dac1" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.48.0/INSTONVMS-Server-Update-1.48.0-linux.zip",   "sha256": "2314ff445fc9ae036788378ddd622e6e9362026ec27c4b3ede748c781c82a861" }
+  "version": "1.48.1",
+  "notes": "Fix: the +/-10s skip buttons now work forward and backward (they re-seek the recording to the new instant instead of nudging the video, which could not jump ahead in the stream).",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.48.1/INSTONVMS-Server-Update-1.48.1-windows.zip", "sha256": "9c75e2c711f66924ba44ed5846568ed108b2601b07cfbba6b90e69a0db8dd4f0" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.48.1/INSTONVMS-Server-Update-1.48.1-linux.zip",   "sha256": "d92e9523a5e1e471bdbb2012f7035ad65632fc10cddb039e027665241c2cc81c" }
 }
