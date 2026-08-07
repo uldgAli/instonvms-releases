@@ -1,6 +1,6 @@
 {
-  "version": "1.51.0",
-  "notes": "Timeline now zooms out across the whole retention: scroll out past a day to see recording coverage over weeks, then zoom back in to exact segments. New coverage API powers the multi-day view; seeking follows across days.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.51.0/INSTONVMS-Server-Update-1.51.0-windows.zip", "sha256": "f892736d4407253e5328d16d3fe3f09bc899f097233a2b4c252aa6e8e7208bd4" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.51.0/INSTONVMS-Server-Update-1.51.0-linux.zip",   "sha256": "3fefe4d9203bc1676d765c972c4da9a4d8465524d6a4c125a6d4f2b1d37ff1a2" }
+  "version": "1.52.0",
+  "notes": "Timeline scrub preview: hover over the recording timeline (when zoomed in) to see a thumbnail of that exact moment before you click. Thumbnails are grabbed on demand from the recordings and cached.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.52.0/INSTONVMS-Server-Update-1.52.0-windows.zip", "sha256": "73654458398e99ef6c1a371956bf1a494ec5eb300f1269865d7c489b9d6f9b01" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.52.0/INSTONVMS-Server-Update-1.52.0-linux.zip",   "sha256": "613b40f9d1c5af7108eab9e466cfa40e97a2ce05c63f2482ed06ebed796b43e7" }
 }
