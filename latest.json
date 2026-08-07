@@ -1,6 +1,6 @@
 {
-  "version": "1.50.0",
-  "notes": "New recording timeline: a canvas-based engine with cursor-anchored wheel zoom, drag-to-pan, click-to-seek, hover preview line, pinch on touch, a distinct recording/gap/motion/event layout and a glowing playhead that follows playback. Playback itself is unchanged.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.50.0/INSTONVMS-Server-Update-1.50.0-windows.zip", "sha256": "20c7e7301f67181ed6d5fe10d5cbbf361d4b488e03e226b8c797c55c634e4ea6" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.50.0/INSTONVMS-Server-Update-1.50.0-linux.zip",   "sha256": "b76b66928f2a450f32f7625cf0c15062acba7ee6197a9327b6954548a267cff7" }
+  "version": "1.51.0",
+  "notes": "Timeline now zooms out across the whole retention: scroll out past a day to see recording coverage over weeks, then zoom back in to exact segments. New coverage API powers the multi-day view; seeking follows across days.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.51.0/INSTONVMS-Server-Update-1.51.0-windows.zip", "sha256": "f892736d4407253e5328d16d3fe3f09bc899f097233a2b4c252aa6e8e7208bd4" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.51.0/INSTONVMS-Server-Update-1.51.0-linux.zip",   "sha256": "3fefe4d9203bc1676d765c972c4da9a4d8465524d6a4c125a6d4f2b1d37ff1a2" }
 }
