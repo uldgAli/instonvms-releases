@@ -1,6 +1,6 @@
 {
-  "version": "1.56.0",
-  "notes": "Experimental seamless playback: turn on 'Kesintisiz' in the recordings header to play a camera continuously with no per-window reload (wall-clock HLS). If anything goes wrong it falls back to normal playback automatically. Off by default.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.56.0/INSTONVMS-Server-Update-1.56.0-windows.zip", "sha256": "c5f9dcb104f32ee87ec1a25462b72022da85ae7915dfda9b5cc79e55b4e2be06" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.56.0/INSTONVMS-Server-Update-1.56.0-linux.zip",   "sha256": "c634bef52a3a890e0b9fe35f5e9bb26084d75d11311ce4956bd056947242d9d7" }
+  "version": "1.57.0",
+  "notes": "The zoomed-out (multi-day) timeline now shows activity heat: alongside where recordings exist, it overlays motion and detection density, so you can spot busy periods across weeks at a glance.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.57.0/INSTONVMS-Server-Update-1.57.0-windows.zip", "sha256": "2f0a58a4130284bac6905b36bf5b9aa647b2f647814d3e22437033d612ecb762" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.57.0/INSTONVMS-Server-Update-1.57.0-linux.zip",   "sha256": "77f872d89497a8d5cfd193a8b5c38a4a7fead80ccd3c44ca745adf291f564301" }
 }
