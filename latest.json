@@ -1,6 +1,6 @@
 {
-  "version": "1.48.1",
-  "notes": "Fix: the +/-10s skip buttons now work forward and backward (they re-seek the recording to the new instant instead of nudging the video, which could not jump ahead in the stream).",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.48.1/INSTONVMS-Server-Update-1.48.1-windows.zip", "sha256": "9c75e2c711f66924ba44ed5846568ed108b2601b07cfbba6b90e69a0db8dd4f0" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.48.1/INSTONVMS-Server-Update-1.48.1-linux.zip",   "sha256": "d92e9523a5e1e471bdbb2012f7035ad65632fc10cddb039e027665241c2cc81c" }
+  "version": "1.49.0",
+  "notes": "Much faster start when viewing old recordings: each jump now loads a short window that begins near-instantly, and playback continues seamlessly into the next window (also auto-skipping gaps) so it still plays as one continuous recording.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.49.0/INSTONVMS-Server-Update-1.49.0-windows.zip", "sha256": "535c4aba83207a06faebdc69c279f18e406e868e62714e80e9505f65800e5988" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.49.0/INSTONVMS-Server-Update-1.49.0-linux.zip",   "sha256": "433893417c93edf99664aa6343551697a68b5f71a787f7cdae4787377bdbbffe" }
 }
