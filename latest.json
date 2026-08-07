@@ -1,6 +1,6 @@
 {
-  "version": "1.45.1",
-  "notes": "Folder-rename uses underscore separator and ASCII only (e.g. Merkez_A_Otopark_Girisi).",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.45.1/INSTONVMS-Server-Update-1.45.1-windows.zip", "sha256": "201b02cbe27558a7b0190465767a333139514fddf8060583e0a1b02495b722fb" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.45.1/INSTONVMS-Server-Update-1.45.1-linux.zip",   "sha256": "8ada212ecaa72a3adefd0dc003ddd994d427d8bb8b4e9fd27644d218a83624cf" }
+  "version": "1.46.0",
+  "notes": "Recordings: clicking a camera now jumps straight to the newest footage and plays instantly — no more waiting on an empty pane or hunting the timeline for a start point.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.46.0/INSTONVMS-Server-Update-1.46.0-windows.zip", "sha256": "d2ad371d59575a8c9cceb11625da8ab52092daaa72757f2172d1af8cb6b6bdd2" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.46.0/INSTONVMS-Server-Update-1.46.0-linux.zip",   "sha256": "02e10481ed87f8dec9edd4385fcd89ba580fbd40b02e5ab2c900996cfba47c88" }
 }
