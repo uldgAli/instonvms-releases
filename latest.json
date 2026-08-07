@@ -1,6 +1,6 @@
 {
-  "version": "1.60.0",
-  "notes": "Alarms now appear on the recording timeline as red markers (the highest-severity tier, above detections and motion), and Alt+Left/Right jumps between all events including alarms.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.60.0/INSTONVMS-Server-Update-1.60.0-windows.zip", "sha256": "e43df8dfc8f0bbb3a36ff67f3953a8f19b51721011165008f977dce769f7c254" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.60.0/INSTONVMS-Server-Update-1.60.0-linux.zip",   "sha256": "1a53190d6cfbd7523870f5c98316c5c9a0005ae4ff076f3e02332ae227dc5142" }
+  "version": "1.61.0",
+  "notes": "Busy periods on the timeline no longer turn into an unreadable wall of marks: nearby events collapse into a count badge that splits apart as you zoom in.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.61.0/INSTONVMS-Server-Update-1.61.0-windows.zip", "sha256": "5101c7eabe95e255fe46091f6287b0e062f2b3f2ee8de25362331a78f7e4e7fd" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.61.0/INSTONVMS-Server-Update-1.61.0-linux.zip",   "sha256": "6eb3a684e8da9fc13cf207f56312ccd24322e56a20f68d5140f56e9df8368159" }
 }
