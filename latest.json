@@ -1,6 +1,6 @@
 {
-  "version": "1.52.0",
-  "notes": "Timeline scrub preview: hover over the recording timeline (when zoomed in) to see a thumbnail of that exact moment before you click. Thumbnails are grabbed on demand from the recordings and cached.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.52.0/INSTONVMS-Server-Update-1.52.0-windows.zip", "sha256": "73654458398e99ef6c1a371956bf1a494ec5eb300f1269865d7c489b9d6f9b01" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.52.0/INSTONVMS-Server-Update-1.52.0-linux.zip",   "sha256": "613b40f9d1c5af7108eab9e466cfa40e97a2ce05c63f2482ed06ebed796b43e7" }
+  "version": "1.53.0",
+  "notes": "Visual export on the timeline: use the scissors button (or Alt-drag) to mark an in/out range, drag the handles to fine-tune, see the duration and a gap warning, then export the clip.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.53.0/INSTONVMS-Server-Update-1.53.0-windows.zip", "sha256": "3e4259f5cd3eaa1552b2325178e00fd0762c1d06e2fca89e5566eb35d3faaa3e" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.53.0/INSTONVMS-Server-Update-1.53.0-linux.zip",   "sha256": "1b144d7e6e8419f0f014917f44c986ec679d25b0a0ed7bb11b96bb7d18bc5cdd" }
 }
