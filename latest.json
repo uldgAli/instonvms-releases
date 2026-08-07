@@ -1,6 +1,6 @@
 {
-  "version": "1.55.0",
-  "notes": "Recording timeline is now screen-reader accessible (announces the playhead time, keyboard-operable, visible focus) and ships a hidden performance overlay for diagnostics (add ?debug=1).",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.55.0/INSTONVMS-Server-Update-1.55.0-windows.zip", "sha256": "c21bc0df4596d7009f4e85b8f46677b5c6d99f2aa18ff85572a4f0261a74dd71" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.55.0/INSTONVMS-Server-Update-1.55.0-linux.zip",   "sha256": "ee7e34dade8564275d7824f3381984d3081074bdc86834d1d8702c5c82454e0e" }
+  "version": "1.56.0",
+  "notes": "Experimental seamless playback: turn on 'Kesintisiz' in the recordings header to play a camera continuously with no per-window reload (wall-clock HLS). If anything goes wrong it falls back to normal playback automatically. Off by default.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.56.0/INSTONVMS-Server-Update-1.56.0-windows.zip", "sha256": "c5f9dcb104f32ee87ec1a25462b72022da85ae7915dfda9b5cc79e55b4e2be06" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.56.0/INSTONVMS-Server-Update-1.56.0-linux.zip",   "sha256": "c634bef52a3a890e0b9fe35f5e9bb26084d75d11311ce4956bd056947242d9d7" }
 }
