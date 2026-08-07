@@ -1,6 +1,6 @@
 {
-  "version": "1.46.0",
-  "notes": "Recordings: clicking a camera now jumps straight to the newest footage and plays instantly — no more waiting on an empty pane or hunting the timeline for a start point.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.46.0/INSTONVMS-Server-Update-1.46.0-windows.zip", "sha256": "d2ad371d59575a8c9cceb11625da8ab52092daaa72757f2172d1af8cb6b6bdd2" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.46.0/INSTONVMS-Server-Update-1.46.0-linux.zip",   "sha256": "02e10481ed87f8dec9edd4385fcd89ba580fbd40b02e5ab2c900996cfba47c88" }
+  "version": "1.47.0",
+  "notes": "New recording timeline: a Milestone-style centred cyan playhead with the film scrolling underneath it — drag to scrub, wheel to zoom, orange recording and blue motion lanes, with the date and millisecond time read out on the playhead.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.47.0/INSTONVMS-Server-Update-1.47.0-windows.zip", "sha256": "896d514d965ba7ba0041a19e690f37d602035716539239e6c156c8ff4044517e" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.47.0/INSTONVMS-Server-Update-1.47.0-linux.zip",   "sha256": "be3d189cac154106de5d6b2bd25f559264bf60405dfdb7d8998bfc5f6ae72a6f" }
 }
