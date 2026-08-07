@@ -1,6 +1,6 @@
 {
-  "version": "1.57.0",
-  "notes": "The zoomed-out (multi-day) timeline now shows activity heat: alongside where recordings exist, it overlays motion and detection density, so you can spot busy periods across weeks at a glance.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.57.0/INSTONVMS-Server-Update-1.57.0-windows.zip", "sha256": "2f0a58a4130284bac6905b36bf5b9aa647b2f647814d3e22437033d612ecb762" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.57.0/INSTONVMS-Server-Update-1.57.0-linux.zip",   "sha256": "77f872d89497a8d5cfd193a8b5c38a4a7fead80ccd3c44ca745adf291f564301" }
+  "version": "1.58.0",
+  "notes": "Multi-camera sync now stays locked: extra angles are held to the master camera's exact time and no longer drift apart. Toggle Kilitli/Bağımsız to switch between synced and independent playback.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.58.0/INSTONVMS-Server-Update-1.58.0-windows.zip", "sha256": "b8ea1107cd93d5137698e593affe5e9ddb14ff0464f8413d93eb9c7915dabf60" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.58.0/INSTONVMS-Server-Update-1.58.0-linux.zip",   "sha256": "9c546553efcc8c618a05dc8b9676be0b5320268302c8c5f065c3956a4b64f240" }
 }
