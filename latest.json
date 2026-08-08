@@ -1,6 +1,6 @@
 {
-  "version": "1.62.0",
-  "notes": "New: Storyboard export. Select a range on the timeline and download a single image grid of frames across it — a quick visual evidence overview of the clip.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.62.0/INSTONVMS-Server-Update-1.62.0-windows.zip", "sha256": "439c298c9c86dd89a54162d5c47d6acebe020081913408b48ea3dc73afbcbd95" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.62.0/INSTONVMS-Server-Update-1.62.0-linux.zip",   "sha256": "095a5480aa1df6273d70d9ddfa81ea91bb63f97a63c1a43cf500d9f637fc37f9" }
+  "version": "1.63.0",
+  "notes": "Enterprise single sign-on (OpenID Connect): sign in with your company identity provider (Keycloak, Azure AD, Google, Okta). Enable it by setting the OIDC issuer and client credentials; a Kurumsal Giriş (SSO) button then appears on the login page.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.63.0/INSTONVMS-Server-Update-1.63.0-windows.zip", "sha256": "80ab14b8de314dce9a0b17870fa1547b46e90b4cfb02ec856d3cc64c0430631d" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.63.0/INSTONVMS-Server-Update-1.63.0-linux.zip",   "sha256": "1fcbbc85d9d461841be6f95d7e331c363c236a169c55483652eaf337df921b8b" }
 }
