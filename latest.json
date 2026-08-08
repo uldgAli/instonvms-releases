@@ -1,6 +1,6 @@
 {
-  "version": "1.66.0",
-  "notes": "SSO single logout: signing out now also ends your session at the identity provider, so you are fully logged out.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.66.0/INSTONVMS-Server-Update-1.66.0-windows.zip", "sha256": "f2e5f0b7471a47c41a5aa8df6495429185730d0fa7d09de23c04c8a71daf0c4f" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.66.0/INSTONVMS-Server-Update-1.66.0-linux.zip",   "sha256": "49138b06e23ce11dd14532fed868dac556226458e983f18af3666409d435779c" }
+  "version": "1.67.0",
+  "notes": "Optional built-in HTTPS: set a TLS certificate and key and the server serves encrypted traffic directly, no reverse proxy needed.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.67.0/INSTONVMS-Server-Update-1.67.0-windows.zip", "sha256": "ebf6f5ca396773dbcc23751deb543b6f4039883bd4205ac720652192bf6202f4" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.67.0/INSTONVMS-Server-Update-1.67.0-linux.zip",   "sha256": "2862bcbe5e3396627974cc89dcb6949760473bcb572665b1b0919e669681927a" }
 }
