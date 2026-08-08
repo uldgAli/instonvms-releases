@@ -1,6 +1,6 @@
 {
-  "version": "1.65.0",
-  "notes": "Hover an event mark on the recording timeline to see what it is (object type or alarm message) before clicking.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.65.0/INSTONVMS-Server-Update-1.65.0-windows.zip", "sha256": "f6d49ddf143bd94ee5b7e349327945acfa7414796a6f1dd500cad2cf0ddfc6eb" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.65.0/INSTONVMS-Server-Update-1.65.0-linux.zip",   "sha256": "462bfc4f60877e6527306b3ac933a062594bf957a2cd88769837756ff3eadb62" }
+  "version": "1.66.0",
+  "notes": "SSO single logout: signing out now also ends your session at the identity provider, so you are fully logged out.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.66.0/INSTONVMS-Server-Update-1.66.0-windows.zip", "sha256": "f2e5f0b7471a47c41a5aa8df6495429185730d0fa7d09de23c04c8a71daf0c4f" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.66.0/INSTONVMS-Server-Update-1.66.0-linux.zip",   "sha256": "49138b06e23ce11dd14532fed868dac556226458e983f18af3666409d435779c" }
 }
