@@ -1,6 +1,6 @@
 {
-  "version": "1.63.0",
-  "notes": "Enterprise single sign-on (OpenID Connect): sign in with your company identity provider (Keycloak, Azure AD, Google, Okta). Enable it by setting the OIDC issuer and client credentials; a Kurumsal Giriş (SSO) button then appears on the login page.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.63.0/INSTONVMS-Server-Update-1.63.0-windows.zip", "sha256": "80ab14b8de314dce9a0b17870fa1547b46e90b4cfb02ec856d3cc64c0430631d" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.63.0/INSTONVMS-Server-Update-1.63.0-linux.zip",   "sha256": "1fcbbc85d9d461841be6f95d7e331c363c236a169c55483652eaf337df921b8b" }
+  "version": "1.64.0",
+  "notes": "The zoomed-out timeline now also highlights alarms in red, alongside recording, motion and detection — so busy or critical periods stand out across weeks at a glance.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.64.0/INSTONVMS-Server-Update-1.64.0-windows.zip", "sha256": "5d73ae8295480a46bbc578dae32ad450e380cafe3393dddc6a67a10f22e89a28" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.64.0/INSTONVMS-Server-Update-1.64.0-linux.zip",   "sha256": "3a119d4e48783e1548cb9a417c806bcd3817a3104dca7afdd67754c7a08ebfa5" }
 }
