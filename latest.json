@@ -1,6 +1,6 @@
 {
-  "version": "1.64.0",
-  "notes": "The zoomed-out timeline now also highlights alarms in red, alongside recording, motion and detection — so busy or critical periods stand out across weeks at a glance.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.64.0/INSTONVMS-Server-Update-1.64.0-windows.zip", "sha256": "5d73ae8295480a46bbc578dae32ad450e380cafe3393dddc6a67a10f22e89a28" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.64.0/INSTONVMS-Server-Update-1.64.0-linux.zip",   "sha256": "3a119d4e48783e1548cb9a417c806bcd3817a3104dca7afdd67754c7a08ebfa5" }
+  "version": "1.65.0",
+  "notes": "Hover an event mark on the recording timeline to see what it is (object type or alarm message) before clicking.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.65.0/INSTONVMS-Server-Update-1.65.0-windows.zip", "sha256": "f6d49ddf143bd94ee5b7e349327945acfa7414796a6f1dd500cad2cf0ddfc6eb" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.65.0/INSTONVMS-Server-Update-1.65.0-linux.zip",   "sha256": "462bfc4f60877e6527306b3ac933a062594bf957a2cd88769837756ff3eadb62" }
 }
