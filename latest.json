@@ -1,6 +1,6 @@
 {
-  "version": "1.68.0",
-  "notes": "Instant recorded-playback seek: our own fMP4 seek index jumps to any moment (any age) in O(1), bypassing MediaMTX's linear scan. Auto-falls-back to the proven path; recording untouched.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.68.0/INSTONVMS-Server-Update-1.68.0-windows.zip", "sha256": "9c902e40d8b48d6fb29f74b1e72bbbef672bc8b7f7a0421f5ed2c1096a0ce870" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.68.0/INSTONVMS-Server-Update-1.68.0-linux.zip",   "sha256": "091a8259d4412bc9b2166fd92e1bc3f82f0e48823af0669d8dc6a3aadbe4d9a6" }
+  "version": "1.68.1",
+  "notes": "Fast recorded-playback seek, field-tuned: sequential index build (16s vs MediaMTX 97s on cold storage), non-blocking store with MediaMTX fallback so first touch never regresses, rate-limited archive backfill that never starves recording.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.68.1/INSTONVMS-Server-Update-1.68.1-windows.zip", "sha256": "0e61f5d317c689da28f8e5ea05aadc76386c056f8901761986fb01de86ea1bd1" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.68.1/INSTONVMS-Server-Update-1.68.1-linux.zip",   "sha256": "acc159b7e4d3eb8551308c591048a107aef0588c05d8f306af45e6cd32f87409" }
 }
