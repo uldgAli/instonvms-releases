@@ -1,6 +1,6 @@
 {
-  "version": "1.68.1",
-  "notes": "Fast recorded-playback seek, field-tuned: sequential index build (16s vs MediaMTX 97s on cold storage), non-blocking store with MediaMTX fallback so first touch never regresses, rate-limited archive backfill that never starves recording.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.68.1/INSTONVMS-Server-Update-1.68.1-windows.zip", "sha256": "0e61f5d317c689da28f8e5ea05aadc76386c056f8901761986fb01de86ea1bd1" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.68.1/INSTONVMS-Server-Update-1.68.1-linux.zip",   "sha256": "acc159b7e4d3eb8551308c591048a107aef0588c05d8f306af45e6cd32f87409" }
+  "version": "1.68.2",
+  "notes": "H.265 recordings now play in the desktop client (and HEVC-capable browsers) instead of a pre-emptive 'browser cannot decode' block; the export hint only shows when the runtime truly can't decode HEVC.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.68.2/INSTONVMS-Server-Update-1.68.2-windows.zip", "sha256": "66562e91cc1e34a56d88eb39564fdbe21e94b10dbbea7ad6b3a90b4c2a24df55" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.68.2/INSTONVMS-Server-Update-1.68.2-linux.zip",   "sha256": "6442f94fc7fba030f7c745f8ff7429fab1ac8afd5417bb831182d9da17d6a958" }
 }
