@@ -1,6 +1,6 @@
 {
-  "version": "1.70.0",
-  "notes": "Minimal recording timeline (smaller, cleaner; fixed zoom + playhead; no empty right side at the live edge) and removed the redundant play button over the video.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.70.0/INSTONVMS-Server-Update-1.70.0-windows.zip", "sha256": "bbe68612455a5adb296e47d886061508b436b3c9505d0e66b1d290c7783d23cb" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.70.0/INSTONVMS-Server-Update-1.70.0-linux.zip",   "sha256": "26e242fd4a3c240e7eaa91667eeeb066833506a2ad0fe97cf013429251365fbd" }
+  "version": "1.71.0",
+  "notes": "Recording timeline rebuilt as a standard scrubber: playhead now shows the correct time (matches the video), zoom in/out is smooth and cursor-anchored, and the green recording band no longer blinks out when zooming. Smaller and cleaner.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.71.0/INSTONVMS-Server-Update-1.71.0-windows.zip", "sha256": "2e398235eae0da47275a589a023ab7cb3f4d1f19442f096ef0b1f680c500aaee" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.71.0/INSTONVMS-Server-Update-1.71.0-linux.zip",   "sha256": "0044ef1509ec9d9531c054f6af79fe3ce9c03d2054ffaddee8bfc208104674a7" }
 }
