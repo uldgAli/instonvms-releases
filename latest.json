@@ -1,6 +1,6 @@
 {
-  "version": "1.69.0",
-  "notes": "Redesigned recording playback screen (single pro-NVR control bar, centre glowing playhead with footage scrolling underneath), plus the fast O(1) recorded-seek index, rate-limited archive backfill, and H.265 playback in the desktop client.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.69.0/INSTONVMS-Server-Update-1.69.0-windows.zip", "sha256": "3f80ea603874cd68de9ac1d9868c985393777942441d0173269140940b732a9d" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.69.0/INSTONVMS-Server-Update-1.69.0-linux.zip",   "sha256": "989f52fb1289c1a75ea7778fbf1ffc479a611df2f0efc9b4a741657cbab5ec1e" }
+  "version": "1.70.0",
+  "notes": "Minimal recording timeline (smaller, cleaner; fixed zoom + playhead; no empty right side at the live edge) and removed the redundant play button over the video.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.70.0/INSTONVMS-Server-Update-1.70.0-windows.zip", "sha256": "bbe68612455a5adb296e47d886061508b436b3c9505d0e66b1d290c7783d23cb" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.70.0/INSTONVMS-Server-Update-1.70.0-linux.zip",   "sha256": "26e242fd4a3c240e7eaa91667eeeb066833506a2ad0fe97cf013429251365fbd" }
 }
