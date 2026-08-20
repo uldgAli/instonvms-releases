@@ -1,6 +1,6 @@
 {
-  "version": "1.71.0",
-  "notes": "Recording timeline rebuilt as a standard scrubber: playhead now shows the correct time (matches the video), zoom in/out is smooth and cursor-anchored, and the green recording band no longer blinks out when zooming. Smaller and cleaner.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.71.0/INSTONVMS-Server-Update-1.71.0-windows.zip", "sha256": "2e398235eae0da47275a589a023ab7cb3f4d1f19442f096ef0b1f680c500aaee" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.71.0/INSTONVMS-Server-Update-1.71.0-linux.zip",   "sha256": "0044ef1509ec9d9531c054f6af79fe3ce9c03d2054ffaddee8bfc208104674a7" }
+  "version": "1.72.0",
+  "notes": "New Timeline Recording Panel: Catppuccin dark theme with labelled tracks (recording / motion), flowing green recording ribbon, red playhead with correct time, Person/Vehicle event filters, hover thumbnail preview, and a zoom + mini-map. Zooming no longer blanks the green band.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.72.0/INSTONVMS-Server-Update-1.72.0-windows.zip", "sha256": "a9e8989a3b7581ad0387ea9e707f9e34b4c37f08dd18d5125094316b387c256b" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.72.0/INSTONVMS-Server-Update-1.72.0-linux.zip",   "sha256": "268e27eb7e6284331087d654bea638416ea6c34f2e6c05d35db70d3b9a0b3e76" }
 }
