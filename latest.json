@@ -1,6 +1,6 @@
 {
-  "version": "1.77.2",
-  "notes": "Depolama Sağlığı: Windows'ta disk G/Ç gecikmesi ölçümü düzeltildi (gerçek ms).",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.2/INSTONVMS-Server-Update-1.77.2-windows.zip", "sha256": "c15bf29e7f96e28e72b14d76add33df6f5d36b45fc1b0254921bb461b893d6be" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.2/INSTONVMS-Server-Update-1.77.2-linux.zip",   "sha256": "e96b07bdde1dc2509b2610a4d3d1e64fc7fefd8301fc3ec6438205c08f1c05c0" }
+  "version": "1.78.0",
+  "notes": "Kayıt-anında seek index: yeni kayıtlar baştan anında seek edilebilir (yavaş diskte bile ~20sn soğuk okuma yok). Disk yüzdesi çipi artık sadece Disk iznine sahip kullanıcılara görünür.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.78.0/INSTONVMS-Server-Update-1.78.0-windows.zip", "sha256": "d0976e2296f73c77d897d730662d5893d23bce99b6b3293910e9bc322fe08854" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.78.0/INSTONVMS-Server-Update-1.78.0-linux.zip",   "sha256": "58d57e064d4b28ed78d8168ed332c8c5d7ea4b4e63e86aba991b61e3c7f7931f" }
 }
