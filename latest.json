@@ -1,6 +1,6 @@
 {
-  "version": "1.74.0",
-  "notes": "Fix recorded playback: selecting a previous day no longer jumps back to today, and the whole day now loads at once so scrubbing anywhere is instant.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.74.0/INSTONVMS-Server-Update-1.74.0-windows.zip", "sha256": "ca0cef38eaf3ca62348f599db930f3847c320af91c86b53f7018bfc56d236118" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.74.0/INSTONVMS-Server-Update-1.74.0-linux.zip",   "sha256": "a3a86bdfb67b87ca168d72ddb43c3b8944cb61b141388056a11038e7ab3d21d2" }
+  "version": "1.75.0",
+  "notes": "Fix: recordings older than ~15 minutes could not be played after the disk change (stale seek-index). The archive now re-indexes itself and playback waits for the index instead of failing.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.75.0/INSTONVMS-Server-Update-1.75.0-windows.zip", "sha256": "d0a37efc2073f0926fcdc6c4906260913be369ca4c227f93348a045e08f0708c" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.75.0/INSTONVMS-Server-Update-1.75.0-linux.zip",   "sha256": "2ef1bb36f0ffd638c42db3684f6639331b2f6361736b721e65259ef96b862750" }
 }
