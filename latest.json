@@ -1,6 +1,6 @@
 {
-  "version": "1.75.0",
-  "notes": "Fix: recordings older than ~15 minutes could not be played after the disk change (stale seek-index). The archive now re-indexes itself and playback waits for the index instead of failing.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.75.0/INSTONVMS-Server-Update-1.75.0-windows.zip", "sha256": "d0a37efc2073f0926fcdc6c4906260913be369ca4c227f93348a045e08f0708c" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.75.0/INSTONVMS-Server-Update-1.75.0-linux.zip",   "sha256": "2ef1bb36f0ffd638c42db3684f6639331b2f6361736b721e65259ef96b862750" }
+  "version": "1.76.0",
+  "notes": "Open a day and the whole day pre-indexes in the background, so seeking anywhere in it is instant (after the first warm-up). Plus the older-recording playback fixes from 1.75.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.76.0/INSTONVMS-Server-Update-1.76.0-windows.zip", "sha256": "fefdcf5a9bcadfe346b96845395b37e7bd1d9f4a4b0debed2eb30ddd69ec6697" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.76.0/INSTONVMS-Server-Update-1.76.0-linux.zip",   "sha256": "c75817f692eb192e0bc39704504d313424568bb5775f0585d1b14913f99adea5" }
 }
