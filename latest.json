@@ -1,6 +1,6 @@
 {
-  "version": "1.76.0",
-  "notes": "Open a day and the whole day pre-indexes in the background, so seeking anywhere in it is instant (after the first warm-up). Plus the older-recording playback fixes from 1.75.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.76.0/INSTONVMS-Server-Update-1.76.0-windows.zip", "sha256": "fefdcf5a9bcadfe346b96845395b37e7bd1d9f4a4b0debed2eb30ddd69ec6697" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.76.0/INSTONVMS-Server-Update-1.76.0-linux.zip",   "sha256": "c75817f692eb192e0bc39704504d313424568bb5775f0585d1b14913f99adea5" }
+  "version": "1.77.0",
+  "notes": "Yeni: Disk/RAID sağlık izleme — Disk Yönetimi'nde depolama sağlığı kartı (dolma projeksiyonu, G/Ç gecikmesi eğilimi, disk/RAID durumu) + yavaş disk/dolacak disk/RAID bozuk alarmları.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.0/INSTONVMS-Server-Update-1.77.0-windows.zip", "sha256": "cfd45f86dbff9ce68f73cb882fb009c15583d45e175a124fc81df5791b2c9191" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.0/INSTONVMS-Server-Update-1.77.0-linux.zip",   "sha256": "37015b213c6305489b3a395df151206e1dc06f4540e88d17af9b57c1a6f8cc4c" }
 }
