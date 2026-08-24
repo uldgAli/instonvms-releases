@@ -1,6 +1,6 @@
 {
-  "version": "1.77.1",
-  "notes": "Depolama Sağlığı: Windows'ta disk G/Ç gecikmesi ölçümü düzeltildi (artık gerçek ms gösteriyor).",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.1/INSTONVMS-Server-Update-1.77.1-windows.zip", "sha256": "257f5074eb53f1bc3412371013129cf9d87af9cfdb60207574268de6022fa0db" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.1/INSTONVMS-Server-Update-1.77.1-linux.zip",   "sha256": "b9c4b89333edfa8f50d4ace5f1febe29b3fb633ead0be9bdbb94dea6919591ed" }
+  "version": "1.77.2",
+  "notes": "Depolama Sağlığı: Windows'ta disk G/Ç gecikmesi ölçümü düzeltildi (gerçek ms).",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.2/INSTONVMS-Server-Update-1.77.2-windows.zip", "sha256": "c15bf29e7f96e28e72b14d76add33df6f5d36b45fc1b0254921bb461b893d6be" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.2/INSTONVMS-Server-Update-1.77.2-linux.zip",   "sha256": "e96b07bdde1dc2509b2610a4d3d1e64fc7fefd8301fc3ec6438205c08f1c05c0" }
 }
