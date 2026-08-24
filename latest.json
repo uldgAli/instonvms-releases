@@ -1,6 +1,6 @@
 {
-  "version": "1.77.0",
-  "notes": "Yeni: Disk/RAID sağlık izleme — Disk Yönetimi'nde depolama sağlığı kartı (dolma projeksiyonu, G/Ç gecikmesi eğilimi, disk/RAID durumu) + yavaş disk/dolacak disk/RAID bozuk alarmları.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.0/INSTONVMS-Server-Update-1.77.0-windows.zip", "sha256": "cfd45f86dbff9ce68f73cb882fb009c15583d45e175a124fc81df5791b2c9191" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.0/INSTONVMS-Server-Update-1.77.0-linux.zip",   "sha256": "37015b213c6305489b3a395df151206e1dc06f4540e88d17af9b57c1a6f8cc4c" }
+  "version": "1.77.1",
+  "notes": "Depolama Sağlığı: Windows'ta disk G/Ç gecikmesi ölçümü düzeltildi (artık gerçek ms gösteriyor).",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.1/INSTONVMS-Server-Update-1.77.1-windows.zip", "sha256": "257f5074eb53f1bc3412371013129cf9d87af9cfdb60207574268de6022fa0db" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.77.1/INSTONVMS-Server-Update-1.77.1-linux.zip",   "sha256": "b9c4b89333edfa8f50d4ace5f1febe29b3fb633ead0be9bdbb94dea6919591ed" }
 }
