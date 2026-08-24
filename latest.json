@@ -1,6 +1,6 @@
 {
-  "version": "1.73.0",
-  "notes": "H.265 cameras now play on the web too: the server transcodes to H.264 on demand only while you watch (the desktop app still plays HEVC directly). This also makes the timeline playhead move for H.265 cameras on the web.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.73.0/INSTONVMS-Server-Update-1.73.0-windows.zip", "sha256": "1ed1acc3676b6b712760f948a855b5cddac57cea292577360be3d07bee910330" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.73.0/INSTONVMS-Server-Update-1.73.0-linux.zip",   "sha256": "f8b0a5fcbd92fd5604f305a8da4d0d204883193515a7359298921e2f8c7d7317" }
+  "version": "1.74.0",
+  "notes": "Fix recorded playback: selecting a previous day no longer jumps back to today, and the whole day now loads at once so scrubbing anywhere is instant.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.74.0/INSTONVMS-Server-Update-1.74.0-windows.zip", "sha256": "ca0cef38eaf3ca62348f599db930f3847c320af91c86b53f7018bfc56d236118" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.74.0/INSTONVMS-Server-Update-1.74.0-linux.zip",   "sha256": "a3a86bdfb67b87ca168d72ddb43c3b8944cb61b141388056a11038e7ab3d21d2" }
 }
