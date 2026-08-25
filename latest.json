@@ -1,6 +1,6 @@
 {
-  "version": "1.79.0",
-  "notes": "Pano yeniden tasarlandı: operatör odaklı düzen + Sistem Sağlığı (CPU/RAM/çalışma süresi/YZ, yalnızca yönetici) + depolama bölümü artık Disk iznine bağlı. Ayrıca kayıt-anında seek index (yeni kayıtlar anında seek).",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.79.0/INSTONVMS-Server-Update-1.79.0-windows.zip", "sha256": "460c249fd22a7044d0d1a284174c83903443363df0bd075020c9e9ac26b1dd23" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.79.0/INSTONVMS-Server-Update-1.79.0-linux.zip",   "sha256": "83aee636816c3aed45e7f1fb8f987c135f3e89e01628ee597114b655a20736b1" }
+  "version": "1.80.0",
+  "notes": "Yeni nesil pano: tam genişlik + sürükle-bırak, yeniden boyutlandırılabilir widget'lar. Düzenle → istediğin widget'ı ekle, yerini/boyutunu değiştir, grafik tipini seç. Düzenin sana özel kaydedilir. (Ayrıca kayıt-anında seek index + disk sağlık izleme.)",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.80.0/INSTONVMS-Server-Update-1.80.0-windows.zip", "sha256": "533aca1a99560c3f7e24d1222d2c5143284bf0cf2a4db401596e4dc980a90457" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.80.0/INSTONVMS-Server-Update-1.80.0-linux.zip",   "sha256": "a92957b1ce333a4c610faa5cf064b74057ead4d28452de9742d7a7388c297481" }
 }
