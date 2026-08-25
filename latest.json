@@ -1,6 +1,6 @@
 {
-  "version": "1.82.0",
-  "notes": "Pano sıfırdan yeniden tasarlandı: klasik kart-grid yerine tam ekran komuta merkezi — durum şeridi, tek bakışta tüm kamera filosunu gösteren renkli sağlık matrisi ve canlı etkinlik akışı.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.82.0/INSTONVMS-Server-Update-1.82.0-windows.zip", "sha256": "348669d7073a481067b476281b6e43aa7a8923bda0998a1df3713a7dfb2e66bd" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.82.0/INSTONVMS-Server-Update-1.82.0-linux.zip",   "sha256": "41f6388ea5eeb2fdadc60bfff001ce8583e1b0539679115bbcca943faee23d1a" }
+  "version": "1.83.0",
+  "notes": "Pano yeniden özelleştirilebilir widget düzenine döndü — daha ferah bir alan, ve widget'ı büyütüp küçülttükçe içeriği de onunla büyüyüp küçülüyor; sıkışma ya da boş alan kalmıyor.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.83.0/INSTONVMS-Server-Update-1.83.0-windows.zip", "sha256": "ef79b12ae2bc924f487a9b4d515becf1d05a28c69a4b08808833435911d9f673" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.83.0/INSTONVMS-Server-Update-1.83.0-linux.zip",   "sha256": "608e8b498dd40171820d0a608bcda1d5a5efa949028602d712634e8da95a222b" }
 }
