@@ -1,6 +1,6 @@
 {
-  "version": "1.80.0",
-  "notes": "Yeni nesil pano: tam genişlik + sürükle-bırak, yeniden boyutlandırılabilir widget'lar. Düzenle → istediğin widget'ı ekle, yerini/boyutunu değiştir, grafik tipini seç. Düzenin sana özel kaydedilir. (Ayrıca kayıt-anında seek index + disk sağlık izleme.)",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.80.0/INSTONVMS-Server-Update-1.80.0-windows.zip", "sha256": "533aca1a99560c3f7e24d1222d2c5143284bf0cf2a4db401596e4dc980a90457" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.80.0/INSTONVMS-Server-Update-1.80.0-linux.zip",   "sha256": "a92957b1ce333a4c610faa5cf064b74057ead4d28452de9742d7a7388c297481" }
+  "version": "1.81.0",
+  "notes": "Pano yeni görsel kimliğine kavuştu (ayırt edici başlık fontu + net sayı gösterimi) ve düzenleme modundaki widget kaldırma/grafik-tipi butonları düzeltildi.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.81.0/INSTONVMS-Server-Update-1.81.0-windows.zip", "sha256": "a71f818792ed8f9752801c44fa1ac5950d87ed5b54726fd96669493d36726a6b" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.81.0/INSTONVMS-Server-Update-1.81.0-linux.zip",   "sha256": "336d04d585104fcc018abe3715fe411b4aff88f02189cfa7e0ed93804f5141cc" }
 }
