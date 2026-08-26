@@ -1,6 +1,6 @@
 {
-  "version": "1.83.0",
-  "notes": "Pano yeniden özelleştirilebilir widget düzenine döndü — daha ferah bir alan, ve widget'ı büyütüp küçülttükçe içeriği de onunla büyüyüp küçülüyor; sıkışma ya da boş alan kalmıyor.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.83.0/INSTONVMS-Server-Update-1.83.0-windows.zip", "sha256": "ef79b12ae2bc924f487a9b4d515becf1d05a28c69a4b08808833435911d9f673" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.83.0/INSTONVMS-Server-Update-1.83.0-linux.zip",   "sha256": "608e8b498dd40171820d0a608bcda1d5a5efa949028602d712634e8da95a222b" }
+  "version": "1.84.0",
+  "notes": "Pano artık tamamen size göre: widget'ları kenarlarından ve köşelerinden tutup dilediğiniz gibi büyütüp küçültebilir, yerleşimi kendinize göre kurabilirsiniz; içerik boyuta göre kendini ayarlıyor. Bunun yanında sayfa açılışlarında iskelet yükleme, kamera ve kayıt listelerinde daha akıcı gezinme, alarmlarda ve kayıtlarda klavyeyle hızlı dolaşım, kopyalama kısayolları ve daha okunaklı durum göstergeleri gibi küçük ama hissedilir iyileştirmeler var. Ayrıca disk sağlığı izleme, kayıt zaman çizelgesi ve arşiv temizliği tarafında kararlılık iyileştirmeleri yapıldı.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.84.0/INSTONVMS-Server-Update-1.84.0-windows.zip", "sha256": "4d513d3c378cf6c3bbe59f552c66ca272692db50c6f0b40df1ecf19bfbaf8b77" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.84.0/INSTONVMS-Server-Update-1.84.0-linux.zip",   "sha256": "8d0711f687d340eb8907d7e373b0828d8ddedeeb4a59707d79173850c2c5a95e" }
 }
