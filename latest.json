@@ -1,6 +1,12 @@
 {
-  "version": "1.84.0",
-  "notes": "Pano artık tamamen size göre: widget'ları kenarlarından ve köşelerinden tutup dilediğiniz gibi büyütüp küçültebilir, yerleşimi kendinize göre kurabilirsiniz; içerik boyuta göre kendini ayarlıyor. Bunun yanında sayfa açılışlarında iskelet yükleme, kamera ve kayıt listelerinde daha akıcı gezinme, alarmlarda ve kayıtlarda klavyeyle hızlı dolaşım, kopyalama kısayolları ve daha okunaklı durum göstergeleri gibi küçük ama hissedilir iyileştirmeler var. Ayrıca disk sağlığı izleme, kayıt zaman çizelgesi ve arşiv temizliği tarafında kararlılık iyileştirmeleri yapıldı.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.84.0/INSTONVMS-Server-Update-1.84.0-windows.zip", "sha256": "4d513d3c378cf6c3bbe59f552c66ca272692db50c6f0b40df1ecf19bfbaf8b77" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.84.0/INSTONVMS-Server-Update-1.84.0-linux.zip",   "sha256": "8d0711f687d340eb8907d7e373b0828d8ddedeeb4a59707d79173850c2c5a95e" }
+  "version": "1.86.0",
+  "notes": "Senkron izleme artık gerçekten çalışıyor. Yan yana açtığınız kameralar eskiden dakikalarca yüklenip çoğu zaman siyah kalıyordu; şimdi üç ek kamera birkaç saniyede geliyor ve aynı ana kilitli oynuyor. H.265 kameraları da ek açı olarak izleyebiliyorsunuz.
+
+Yerleşimi kendiniz seçiyorsunuz: ya seçtiğiniz kamera büyük kalır, diğerleri yanda şerit halinde durur; ya da hepsi eşit ızgarada. Tercihiniz hatırlanıyor.
+
+Bir kamerayı tek başına başka bir saate almak için o kameranın kendi çubuğunu sürüklemeniz yeterli. Sadece o kamera ayrılır, diğerleri ana saatte kalır; tek tıkla geri toplarsınız.
+
+Zaman çizelgesinde saat etiketleri düzeldi (gün boyunca tek etiket çıkıyordu) ve artık tam saatlere oturuyor. Kayıt, hareket, tespit ve alarm katmanları ayrı şeritlerde, renk açıklamasıyla birlikte gösteriliyor. Oynatma kontrolleri de yenilendi.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.86.0/INSTONVMS-Server-Update-1.86.0-windows.zip", "sha256": "312a7a4ac0705059608e488b4eb70c052b73bb27dcf1320b368f37bd134289cb" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.86.0/INSTONVMS-Server-Update-1.86.0-linux.zip",   "sha256": "4c17947a6814aad9fb07ca8d06545c9ef08ed375cb57b425becac2a9dc7fef3f" }
 }
