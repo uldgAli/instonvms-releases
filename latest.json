@@ -1,12 +1,6 @@
 {
-  "version": "1.86.0",
-  "notes": "Senkron izleme artık gerçekten çalışıyor. Yan yana açtığınız kameralar eskiden dakikalarca yüklenip çoğu zaman siyah kalıyordu; şimdi üç ek kamera birkaç saniyede geliyor ve aynı ana kilitli oynuyor. H.265 kameraları da ek açı olarak izleyebiliyorsunuz.
-
-Yerleşimi kendiniz seçiyorsunuz: ya seçtiğiniz kamera büyük kalır, diğerleri yanda şerit halinde durur; ya da hepsi eşit ızgarada. Tercihiniz hatırlanıyor.
-
-Bir kamerayı tek başına başka bir saate almak için o kameranın kendi çubuğunu sürüklemeniz yeterli. Sadece o kamera ayrılır, diğerleri ana saatte kalır; tek tıkla geri toplarsınız.
-
-Zaman çizelgesinde saat etiketleri düzeldi (gün boyunca tek etiket çıkıyordu) ve artık tam saatlere oturuyor. Kayıt, hareket, tespit ve alarm katmanları ayrı şeritlerde, renk açıklamasıyla birlikte gösteriliyor. Oynatma kontrolleri de yenilendi.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.86.0/INSTONVMS-Server-Update-1.86.0-windows.zip", "sha256": "312a7a4ac0705059608e488b4eb70c052b73bb27dcf1320b368f37bd134289cb" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.86.0/INSTONVMS-Server-Update-1.86.0-linux.zip",   "sha256": "4c17947a6814aad9fb07ca8d06545c9ef08ed375cb57b425becac2a9dc7fef3f" }
+  "version": "1.87.0",
+  "notes": "Kaydın son bir saati artık oynatılıyor; senkron izlemede kamera adları artık düğmelerin arkasında kalmıyor.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.87.0/INSTONVMS-Server-Update-1.87.0-windows.zip", "sha256": "d3c9ea857dce3b1bc49bea2331fa8531468f87169746ea3609efcbfdeb1628cb" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.87.0/INSTONVMS-Server-Update-1.87.0-linux.zip",   "sha256": "e84c476cd7893e013a0996622c275199cfa1d7ea32521290779bb0e32df13854" }
 }
