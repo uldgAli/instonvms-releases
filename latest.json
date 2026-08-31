@@ -1,6 +1,6 @@
 {
-  "version": "1.87.0",
-  "notes": "Kaydın son bir saati artık oynatılıyor; senkron izlemede kamera adları artık düğmelerin arkasında kalmıyor.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.87.0/INSTONVMS-Server-Update-1.87.0-windows.zip", "sha256": "d3c9ea857dce3b1bc49bea2331fa8531468f87169746ea3609efcbfdeb1628cb" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.87.0/INSTONVMS-Server-Update-1.87.0-linux.zip",   "sha256": "e84c476cd7893e013a0996622c275199cfa1d7ea32521290779bb0e32df13854" }
+  "version": "1.88.0",
+  "notes": "Kaydın son bir saati artık gerçekten oynuyor, kameralar boşu boşuna çevrimdışı görünmüyor ve dışa aktarma penceresini kapatınca yanlışlıkla şifresiz kopya çıkmıyor. Sunucu ağ güvenliği sıkılaştırıldı, güncelleme paketleri artık imzalı geliyor.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.88.0/INSTONVMS-Server-Update-1.88.0-windows.zip", "sha256": "179a54f1aec573963a299099bffb7fe6f9de086045a25af752ac2b6bc7863d88", "sig": "PwRKJScqaeAeAv3fKZxW//le0cX8E9zoJVZx7ztMcR4RH1I9yR2i609cW4OIwg9e9UVEr20vhcSUR5sgdQYYDg==" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.88.0/INSTONVMS-Server-Update-1.88.0-linux.zip",   "sha256": "7623195a80c5f9f1eb7f10d1ba4ea14f8d22ed7f59b02fe4495c13dd19e2aee9", "sig": "nTZjIsR49EzBTFLkFwNqYmNL4yJB50wep6phRfvZG/vj8i5/x26uOrOO2M0RpRSFS/zLQv99SH48qb/d7rllDw==" }
 }
