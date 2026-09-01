@@ -1,8 +1,8 @@
 {
-  "version": "1.11.0",
-  "notes": "INSTONVMS 1.11.0",
-  "windows":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.0/INSTONVMS-Client-Setup-1.11.0-win-x64.exe" },
-  "mac_arm64": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.0/INSTONVMS-Client-1.11.0-mac-arm64.dmg" },
-  "mac_x64":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.0/INSTONVMS-Client-1.11.0-mac-x64.dmg" },
-  "linux":     { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.11.0/INSTONVMS-Client-1.11.0-linux-x86_64.AppImage" }
+  "version": "1.39.0",
+  "notes": "Kamera klasoru tasima/yeniden adlandirma artik kayitlari durdurmadan yapiliyor, sonunda ozet rapor cikiyor; saklama suresi hesaplamasindaki bir hata giderildi. Masaustu izleme uygulamasi artik Windows, Mac ve Linux icin ayri ayri kurulabiliyor.",
+  "windows":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.89.0/INSTONVMS-Client-Setup-1.39.0-win-x64.exe" },
+  "mac_arm64": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.89.0/INSTONVMS-Client-1.39.0-mac-universal.dmg" },
+  "mac_x64":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.89.0/INSTONVMS-Client-1.39.0-mac-universal.dmg" },
+  "linux":     { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.89.0/INSTONVMS-Client-1.39.0-linux-x86_64.AppImage" }
 }
