@@ -1,6 +1,6 @@
 {
-  "version": "1.88.0",
-  "notes": "Kaydın son bir saati artık gerçekten oynuyor, kameralar boşu boşuna çevrimdışı görünmüyor ve dışa aktarma penceresini kapatınca yanlışlıkla şifresiz kopya çıkmıyor. Sunucu ağ güvenliği sıkılaştırıldı, güncelleme paketleri artık imzalı geliyor.",
-  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.88.0/INSTONVMS-Server-Update-1.88.0-windows.zip", "sha256": "179a54f1aec573963a299099bffb7fe6f9de086045a25af752ac2b6bc7863d88", "sig": "PwRKJScqaeAeAv3fKZxW//le0cX8E9zoJVZx7ztMcR4RH1I9yR2i609cW4OIwg9e9UVEr20vhcSUR5sgdQYYDg==" },
-  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.88.0/INSTONVMS-Server-Update-1.88.0-linux.zip",   "sha256": "7623195a80c5f9f1eb7f10d1ba4ea14f8d22ed7f59b02fe4495c13dd19e2aee9", "sig": "nTZjIsR49EzBTFLkFwNqYmNL4yJB50wep6phRfvZG/vj8i5/x26uOrOO2M0RpRSFS/zLQv99SH48qb/d7rllDw==" }
+  "version": "1.89.0",
+  "notes": "Kamera klasoru tasima/yeniden adlandirma artik kayitlari durdurmadan yapiliyor, sonunda ozet rapor cikiyor; saklama suresi hesaplamasindaki bir hata giderildi. Masaustu izleme uygulamasi artik Windows, Mac ve Linux icin ayri ayri kurulabiliyor.",
+  "windows": { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.89.0/INSTONVMS-Server-Update-1.89.0-windows.zip", "sha256": "4f07664b5c8d7243eb4f402685bad98111995ea1d4ff8dee124d8a1498dfed33", "sig": "g+dkTNbfF/Gd5zajz8F1cb68TmAA0pkaeI3Fvj4jAi0gZOomezrSH9FSNLAAFi7pdVyuzs8dwsro2CIYMKBEBw==" },
+  "linux":   { "url": "https://github.com/uldgAli/instonvms-releases/releases/download/v1.89.0/INSTONVMS-Server-Update-1.89.0-linux.zip",   "sha256": "d49d9d42a42b6464315620a35fd96f5de2aad07fd727ce81f6a0653f4ae900ae", "sig": "fFNz+afSrsBvWrYVGNLwohjGiq+8k7RTXMGSedu6Fa6JVpdDt+0Djw1k48wtvDcteRFTtg8buKBxQAWJMC1xDg==" }
 }
